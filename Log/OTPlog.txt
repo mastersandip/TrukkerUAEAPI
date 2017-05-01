@@ -1,0 +1,184 @@
+2016-06-30 7:22:27 PM-OTP Message Send Sucessfully - 9979870937
+2016-07-05 6:15:27 PM-Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.   at System.Data.DataSet.EnableConstraints()
+   at System.Data.DataSet.set_EnforceConstraints(Boolean value)
+   at trukkerUAE.Controllers.ShipperController.RegisterShipper(JObject jobj) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\Controllers\ShipperController.cs:line 590
+2016-07-30 10:45:28 AM-start in
+2016-07-30 10:45:30 AM-start OTP
+2016-07-30 10:45:31 AM-OTP Message Send Sucessfully - 6754273467
+2016-07-30 10:45:32 AM-OTP send
+2016-07-30 10:47:01 AM-start in
+2016-07-30 10:47:02 AM-start OTP
+2016-07-30 10:47:04 AM-OTP Message Send Sucessfully - 6754278467
+2016-07-30 10:47:05 AM-OTP send
+2016-08-02 5:52:29 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-03 6:13:03 PM-OTP Message Send Sucessfully - 7777777777
+2016-08-03 6:15:45 PM-OTP Message Send Sucessfully - 7777777777
+2016-08-03 6:31:52 PM-OTP Message Send Sucessfully - 7777777777
+2016-08-03 6:32:33 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-05 4:12:49 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-05 4:13:30 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-05 4:14:19 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-05 4:56:05 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-05 4:56:44 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-05 4:58:19 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-05 5:01:50 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-05 5:02:02 PM-OTP Message Send Sucessfully - 9033930292
+2016-08-05 5:02:06 PM-OTP Message Send Sucessfully - 9979870937
+2016-08-09 7:17:50 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-09 7:19:26 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-09 7:23:25 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-09 7:29:03 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-09 7:30:39 PM-Can not convert Object to String.
+2016-08-09 7:30:59 PM-Can not convert Object to String.
+2016-08-09 7:31:50 PM-Can not convert Object to String.
+2016-08-09 7:32:19 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-09 7:33:08 PM-OTP Message Send Sucessfully - 9979870937
+2016-08-10 4:52:28 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-10 4:52:34 PM-Data at the root level is invalid. Line 2, position 1.
+2016-08-20 2:59:41 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-20 3:52:07 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-20 3:53:34 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-20 4:13:37 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-22 6:40:37 PM-OTP Message Send Sucessfully - 2323232323
+2016-08-22 7:21:20 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-22 7:21:39 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-22 7:21:52 PM-OTP Message Send Sucessfully - 9033930292
+2016-08-22 7:22:57 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-22 7:22:57 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-22 7:22:57 PM-OTP Message Send Sucessfully - 9033930292
+2016-08-22 7:23:49 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-22 7:23:49 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-22 7:23:49 PM-OTP Message Send Sucessfully - 9033930292
+2016-08-22 7:24:58 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-22 7:24:59 PM-OTP Message Send Sucessfully - 9999999999
+2016-08-22 7:24:59 PM-OTP Message Send Sucessfully - 9033930292
+2016-08-24 3:27:11 PM-start in
+2016-08-24 3:27:11 PM-start OTP
+2016-08-24 3:27:11 PM-OTP Message Send Sucessfully - 324234
+2016-08-24 3:27:11 PM-OTP send
+2016-08-24 3:28:19 PM-start in
+2016-08-24 3:28:22 PM-start OTP
+2016-08-24 3:28:22 PM-OTP Message Send Sucessfully - 3223424234
+2016-08-24 3:28:23 PM-OTP send
+2016-08-24 3:31:32 PM-start in
+2016-08-24 3:31:33 PM-start OTP
+2016-08-24 3:31:33 PM-OTP Message Send Sucessfully - 32234244
+2016-08-24 3:31:36 PM-OTP send
+2016-08-24 8:33:05 PM-OTP Message Send Sucessfully - 111222333
+2016-08-24 8:58:22 PM-OTP Message Send Sucessfully - 111222333
+2016-08-24 9:44:07 PM-OTP Message Send Sucessfully - 111222333
+2016-08-24 9:57:29 PM-OTP Message Send Sucessfully - 111222333
+2016-08-27 12:03:52 PM-OTP Message Send Sucessfully - 940844832
+2016-08-27 12:26:08 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-27 1:04:36 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-27 2:07:17 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-27 3:19:36 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-27 3:40:24 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-27 3:56:17 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-28 3:54:17 PM-OTP Message Send Sucessfully - 1234
+2016-08-28 4:10:24 PM-OTP Message Send Sucessfully - 1234
+2016-08-30 12:02:47 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-30 12:02:55 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-30 12:03:41 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-30 12:15:25 PM-OTP Message Send Sucessfully - 8888888888
+2016-08-31 4:35:30 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 4:35:30 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:16:12 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:17:16 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:18:53 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:24:29 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:24:54 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:25:14 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:25:15 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:36:53 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:37:00 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:38:01 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:38:30 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:40:19 PM-OTP Message Send Sucessfully - 566163740
+2016-08-31 5:42:26 PM-OTP Message Send Sucessfully - 566163740
+2016-09-01 3:59:05 PM-OTP Message Send Sucessfully - 566163740
+2016-09-01 4:03:25 PM-OTP Message Send Sucessfully - 566163740
+2016-09-01 7:33:08 PM-start in
+2016-09-01 7:33:09 PM-start OTP
+2016-09-01 7:33:40 PM-OTP Message Send Sucessfully - 9727974355
+2016-09-01 7:33:40 PM-OTP send
+2016-09-01 7:35:11 PM-start in
+2016-09-01 7:35:12 PM-start OTP
+2016-09-01 7:36:06 PM-Unexpected character encountered while parsing value: G. Path '', line 0, position 0.
+2016-09-01 7:36:06 PM-OTP send
+2016-09-01 7:37:30 PM-Unexpected character encountered while parsing value: G. Path '', line 0, position 0.
+2016-09-01 7:37:30 PM-Unexpected character encountered while parsing value: G. Path '', line 0, position 0.
+2016-09-01 7:39:59 PM-OTP Message Send Sucessfully - 9979870937
+2016-09-01 7:44:13 PM-OTP Message Send Sucessfully - 9979870937
+2016-09-01 7:46:10 PM-OTP Message Send Sucessfully - 566163740
+2016-09-02 6:27:37 PM-start in
+2016-09-02 6:27:37 PM-start OTP
+2016-09-02 6:27:44 PM-OTP Message Send Sucessfully - 97245355
+2016-09-02 6:27:46 PM-OTP send
+2016-09-02 6:31:55 PM-start in
+2016-09-02 6:31:56 PM-start OTP
+2016-09-02 6:32:01 PM-OTP Message Send Sucessfully - 972453555
+2016-09-02 6:32:03 PM-OTP send
+2016-09-03 6:51:55 PM-OTP Message Send Sucessfully - 111222333
+2016-09-05 4:42:27 PM-OTP Message Send Sucessfully - 111222333
+2016-09-08 5:32:45 PM-OTP Message Send Sucessfully - 9408448320
+2016-09-09 2:59:29 PM-OTP Message Send Sucessfully - 6942
+2016-09-09 7:47:51 PM-OTP Message Send Sucessfully - 6942
+2016-09-09 7:52:25 PM-OTP Message Send Sucessfully - 6942
+2016-09-09 7:54:06 PM-OTP Message Send Sucessfully - 6942
+2016-09-09 7:55:39 PM-OTP Message Send Sucessfully - 6942
+2016-09-09 8:06:20 PM-OTP Message Send Sucessfully - 6942
+2016-09-12 2:37:22 PM-OTP Message Send Sucessfully - 9999999999
+2016-09-12 2:50:57 PM-OTP Message Send Sucessfully - 9999999999
+2016-09-12 5:41:45 PM-OTP Message Send Sucessfully - 6942
+2016-09-12 5:50:33 PM-OTP Message Send Sucessfully - 6942
+2016-09-14 12:29:28 PM-OTP Message Send Sucessfully - 6942
+2016-09-20 7:13:19 PM-OTP Message Send Sucessfully - 6942
+2016-09-22 6:21:12 PM-OTP Message Send Sucessfully - 6942
+2016-09-23 5:24:49 PM-OTP Message Send Sucessfully - 6942
+2016-09-23 6:14:28 PM-OTP Message Send Sucessfully - 6942
+2016-09-23 6:54:05 PM-OTP Message Send Sucessfully - 6942
+2016-09-27 12:39:00 PM-OTP Message Send Sucessfully - 6942
+2016-09-27 12:53:49 PM-OTP Message Send Sucessfully - 6942
+2016-09-29 12:10:06 PM-OTP Message Send Sucessfully - 987654321
+2016-09-30 4:10:07 PM-OTP Message Send Sucessfully - 524693690
+2016-09-30 4:10:33 PM-OTP Message Send Sucessfully - 555791229
+2016-09-30 5:56:11 PM-OTP Message Send Sucessfully - 524693690
+2016-10-01 4:56:51 PM-OTP Message Send Sucessfully - 6942
+2016-10-03 11:54:28 AM-OTP Message Send Sucessfully - 6942
+2016-10-03 12:45:11 PM-OTP Message Send Sucessfully - 6942
+12/30/16 6:02:01 AM-OTP Message Not Send - 3333333333
+12/30/16 6:03:48 AM-OTP Message Not Send - 3333333333
+12/30/16 6:33:42 AM-OTP Message Not Send - 3333333333
+12/30/16 6:42:48 AM-OTP Message Not Send - 3333333333
+12/30/16 9:18:25 AM-OTP Message Not Send - 3333333333
+12/30/16 10:10:36 AM-OTP Message Not Send - 5555555555
+12/30/16 12:32:01 PM-OTP Message Not Send - 3333333333
+12/30/16 12:33:04 PM-OTP Message Not Send - 3333333333
+12/30/16 12:34:21 PM-OTP Message Not Send - 3333333333
+01/03/17 1:16:25 PM-OTP Message Not Send - 3333333333
+01/06/17 9:26:58 AM-OTP Message Not Send - 3333333333
+01/07/17 11:37:48 AM-OTP Message Not Send - 1231231231
+01/07/17 11:59:15 AM-OTP Message Not Send - 1231231231
+01/07/17 1:24:44 PM-OTP Message Not Send - 1231231231
+01/07/17 1:28:28 PM-OTP Message Not Send - 1231231231
+01/07/17 1:28:32 PM-OTP Message Not Send - 1231231231
+01/07/17 1:29:34 PM-OTP Message Not Send - 1231231231
+01/07/17 1:35:04 PM-OTP Message Not Send - 1231231231
+01/07/17 1:35:12 PM-OTP Message Not Send - 1231231231
+01/07/17 1:35:16 PM-OTP Message Not Send - 1231231231
+01/07/17 1:36:37 PM-OTP Message Not Send - 1231231231
+01/07/17 1:38:53 PM-OTP Message Not Send - 1231231231
+01/07/17 1:39:47 PM-OTP Message Not Send - 1231231231
+01/07/17 1:41:20 PM-OTP Message Not Send - 1231231231
+01/07/17 1:41:29 PM-OTP Message Not Send - 1231231231
+01/07/17 1:41:40 PM-OTP Message Not Send - 1231231231
+01/07/17 1:42:31 PM-OTP Message Not Send - 1231231231
+01/07/17 1:43:01 PM-OTP Message Not Send - 1231231231
+01/07/17 1:43:48 PM-OTP Message Not Send - 1231231231
+01/07/17 1:44:05 PM-OTP Message Not Send - 1231231231
+01/09/17 7:24:52 AM-OTP Message Not Send - 3333333333
+01/09/17 7:27:43 AM-OTP Message Not Send - 3333333333
+01/09/17 7:29:29 AM-OTP Message Not Send - 3333333333
+01/10/17 5:41:45 AM-OTP Message Not Send - 0123456789
+01/10/17 5:43:07 AM-OTP Message Not Send - 0123456789

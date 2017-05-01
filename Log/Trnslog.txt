@@ -1,0 +1,804 @@
+2016-06-15 4:31:53 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000001
+2016-06-15 4:49:45 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000002
+2016-06-16 12:01:05 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000003
+2016-06-16 12:01:53 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000004
+2016-06-16 12:03:45 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000001
+2016-06-16 1:59:06 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000002
+2016-06-16 1:59:41 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000003
+2016-06-16 2:17:49 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000004
+2016-06-16 2:19:55 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000005
+2016-06-16 3:09:10 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000006
+2016-06-16 5:36:34 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000005
+2016-06-16 5:56:56 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000009
+2016-06-16 5:57:21 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000010
+2016-06-16 5:58:41 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000011
+2016-06-16 5:59:06 PM-Load Inquiry Saved With Quotation Inquire ID : P1617000012
+2016-06-16 6:27:03 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000011
+2016-06-17 10:29:35 AM-Load Inquiry Saved With Quotation Inquire ID : P1617000014
+2016-06-17 10:30:44 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000001
+2016-06-17 10:37:37 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000002
+2016-06-17 10:39:04 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000003
+2016-06-18 10:37:55 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000078
+2016-06-18 10:40:11 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000080
+2016-06-18 11:43:02 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000090
+2016-06-18 11:46:59 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000092
+2016-06-18 11:48:41 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000093
+2016-06-18 11:50:12 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000094
+2016-06-18 12:02:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000099
+2016-06-22 10:20:02 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000193
+2016-06-22 10:35:22 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000197
+2016-06-22 10:38:07 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000198
+2016-06-22 4:45:31 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000197
+2016-06-23 11:08:58 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000226
+2016-06-23 11:10:49 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000229
+2016-06-23 11:14:33 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000233
+2016-06-23 11:16:08 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000234
+2016-06-23 11:22:41 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000235
+2016-06-23 11:24:03 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000240
+2016-06-24 11:46:01 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000281
+2016-06-24 4:13:07 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000265
+2016-06-24 4:14:15 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000266
+2016-06-24 4:21:43 PM-Quotation Generated for Inquiry no = P1617000025
+2016-06-24 4:21:43 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000304
+2016-06-24 4:22:02 PM-Quotation Generated for Inquiry no = P1617000026
+2016-06-24 4:22:05 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000305
+2016-06-24 5:37:17 PM-Truck Current Position Saved : P1617000026
+2016-06-24 5:37:40 PM-Truck Current Position Saved : P1617000026
+2016-06-24 5:42:37 PM-Truck Current Position Saved : P1617000026
+2016-06-24 5:45:00 PM-Truck Current Position Saved : P1617000026
+2016-06-24 5:46:27 PM-Truck Current Position Saved : P1617000026
+2016-06-24 5:48:46 PM-Truck Current Position Saved : P1617000026
+2016-06-24 6:56:58 PM-Order Completed for Inq Id = P1617000026
+2016-06-27 5:33:39 PM-Truck Master Saved : TrcukId = 
+2016-06-27 6:36:52 PM-Truck Master Saved : T1617000001
+2016-06-27 6:40:58 PM-Truck Master Saved : T1617000002
+2016-06-27 7:02:31 PM- Driver : D1617000001 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-06-27 7:14:39 PM-Truck Master Saved : T1617000003
+2016-06-27 7:18:56 PM-Truck Master Saved : T1617000004
+2016-06-28 11:04:24 AM-Truck Master Saved : T1617000007
+2016-07-01 5:13:26 PM- Driver : D1516000001 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-01 5:22:31 PM- Driver : D1516000001 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-01 6:46:51 PM- Driver : D1516000001 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-02 11:48:28 AM- Driver : D1617000002 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-04 6:49:32 PM-Quotation Generated for Inquiry no = P1617000056
+2016-07-04 6:49:32 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000377
+2016-07-04 7:04:34 PM-Quotation Generated for Inquiry no = P1617000057
+2016-07-04 7:04:34 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000378
+2016-07-04 7:05:32 PM-Quotation Generated for Inquiry no = P1617000058
+2016-07-04 7:05:32 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000379
+2016-07-04 7:09:27 PM-Quotation Generated for Inquiry no = P1617000059
+2016-07-04 7:09:27 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000380
+2016-07-05 12:30:37 PM- Driver : D1617000002 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-05 12:32:24 PM- Driver : D1516000005 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-05 12:32:45 PM- Driver : D1516000005 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-07-05 5:04:55 PM-Order Completed for Inq Id = P1617000347
+2016-07-05 5:08:20 PM-Order Completed for Inq Id = P1617000347
+2016-07-05 5:09:37 PM-Order Completed for Inq Id = P1617000347
+2016-07-05 5:10:12 PM-Order Completed for Inq Id = P1617000347
+2016-07-08 11:53:37 AM-Order Completed for Inq Id = P1617000102
+2016-07-12 6:11:56 PM-Partner details save : P1617000003
+2016-07-12 6:12:09 PM-Partner details save : P1617000004
+2016-07-12 6:12:37 PM-Partner details save : P1617000005
+7/13/2016 3:41:19 PM-Partner details save : P1617000011
+7/13/2016 3:54:02 PM-Partner details save : P1617000012
+7/13/2016 3:58:28 PM-Partner details save : P1617000013
+7/13/2016 4:08:27 PM-Partner details save : P1617000014
+7/13/2016 4:16:38 PM-Partner details save : P1617000015
+7/13/2016 4:20:54 PM-Partner details save : P1617000016
+7/13/2016 4:24:56 PM-Partner details save : P1617000017
+7/13/2016 4:55:15 PM-Quotation Generated for Inquiry no = P1617000006
+7/13/2016 4:55:15 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000006
+7/13/2016 4:55:59 PM-Quotation Generated for Inquiry no = P1617000007
+7/13/2016 4:55:59 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000007
+7/13/2016 6:52:02 PM-Quotation Generated for Inquiry no = P1617000008
+7/13/2016 6:52:02 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000008
+7/13/2016 7:12:19 PM-Partner details save : P1617000018
+7/13/2016 7:25:19 PM-Partner details save : P1617000019
+7/13/2016 7:27:40 PM-Quotation Generated for Inquiry no = P1617000009
+7/13/2016 7:27:40 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000009
+7/13/2016 7:28:52 PM-Quotation Generated for Inquiry no = P1617000010
+7/13/2016 7:28:52 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000010
+7/13/2016 7:31:11 PM-Quotation Generated for Inquiry no = P1617000011
+7/13/2016 7:31:11 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000011
+7/13/2016 7:33:38 PM-Quotation Generated for Inquiry no = P1617000012
+7/13/2016 7:33:38 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000012
+7/14/2016 6:26:26 PM-Partner details save : P1617000020
+7/14/2016 6:54:00 PM-Partner details save : P1617000021
+7/14/2016 6:56:12 PM-Mailer Email Saved: sandippr12@gmail.com
+7/14/2016 7:03:51 PM-Mailer Email Saved: sandippr12@gmail.com
+7/14/2016 7:13:05 PM-Partner details save : P1617000022
+7/15/2016 5:52:40 PM-Mailer Email Saved: gaurav.biswas@fruit-capital.com
+7/15/2016 6:48:59 PM-Partner details save : P1617000023
+7/15/2016 6:53:08 PM-Mailer Email Saved: sandippr12@gmail.com
+7/15/2016 11:02:14 PM-Partner details save : P1617000024
+7/16/2016 2:32:10 PM-Partner details save : P1617000025
+7/16/2016 6:02:16 PM-Mailer Email Saved: sandippr12@gmail.com
+7/16/2016 6:05:13 PM-Mailer Email Saved: sandippr12@gmail.com
+7/16/2016 7:35:34 PM-Partner details save : P1617000026
+7/16/2016 11:55:08 PM-Mailer Email Saved: najia.mahboob@yahoo.com
+7/16/2016 11:55:32 PM-Mailer Email Saved: gauravbiswas@gmail.com
+7/17/2016 12:00:34 AM-Partner details save : P1617000027
+7/17/2016 12:01:29 AM-Partner details save : P1617000028
+7/17/2016 12:29:35 AM-Partner details save : P1617000029
+7/17/2016 1:11:10 AM-Partner details save : P1617000030
+7/17/2016 1:16:32 AM-Mailer Email Saved: sandippr12@gmail.com
+2016-07-18 1:00:49 PM-Mailer Email Saved: sandippr12@GMAIL.COM
+2016-07-18 1:01:16 PM-Mailer Email Saved: sandippr12@GMAIL.COM
+2016-07-18 1:02:38 PM-Mailer Email Saved: sandippr12@GMAIL.COM
+2016-07-18 1:03:00 PM-Mailer Email Saved: sandippr12@GMAIL.COM
+2016-07-18 4:44:46 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000026
+2016-07-18 4:48:50 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000027
+2016-07-18 5:24:55 PM-Quotation Generated for Inquiry no = P1617000011
+2016-07-18 5:24:55 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000019
+2016-07-27 3:09:20 PM-Quotation Generated for Inquiry no = 
+2016-07-27 3:09:20 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000067
+2016-07-27 3:11:07 PM-Quotation Generated for Inquiry no = P1617000125
+2016-07-27 3:11:08 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000069
+2016-07-27 5:33:37 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000022
+2016-07-28 12:45:26 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000026
+2016-07-28 3:28:53 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000027
+2016-07-28 3:29:47 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000028
+2016-07-28 3:30:51 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000029
+2016-07-28 3:35:12 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000030
+2016-07-29 2:17:55 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000063
+2016-07-29 2:19:37 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000064
+2016-07-29 2:32:04 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000065
+2016-07-29 2:43:41 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000066
+2016-07-29 2:58:27 PM-Load Inquiry update With  Inquire ID : P1617000066
+2016-07-29 3:01:12 PM-Load Inquiry update With  Inquire ID : P1617000066
+2016-07-29 3:01:29 PM-Load Inquiry update With  Inquire ID : P1617000066
+2016-07-29 3:03:12 PM-Load Inquiry update With  Inquire ID : P1617000066
+2016-07-29 3:03:33 PM-Load Inquiry update With  Inquire ID : P1617000066
+2016-07-29 3:07:05 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000044
+2016-07-29 6:23:58 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000130
+2016-07-29 6:24:33 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000131
+2016-07-29 6:35:29 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000135
+2016-07-29 7:54:46 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000183
+2016-07-30 10:32:05 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000194
+2016-07-30 11:57:33 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000311
+2016-07-31 4:29:17 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000758
+2016-08-02 11:55:12 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-02 11:57:04 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-04 3:19:52 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000942
+2016-08-04 3:19:52 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000260
+2016-08-04 3:36:50 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000944
+2016-08-04 3:36:50 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000261
+2016-08-04 3:44:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000946
+2016-08-04 3:44:48 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000262
+2016-08-04 3:52:36 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000948
+2016-08-04 3:52:36 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000263
+2016-08-04 4:14:56 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000950
+2016-08-04 4:15:09 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000264
+2016-08-04 4:15:22 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000265
+2016-08-04 4:33:20 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000267
+2016-08-04 4:44:11 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000268
+2016-08-04 5:00:12 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000269
+2016-08-04 5:04:43 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000270
+2016-08-05 3:12:02 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000294
+2016-08-05 3:42:34 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000296
+2016-08-05 3:53:45 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000297
+2016-08-08 2:42:46 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000344
+2016-08-08 2:48:21 PM-Quote Accepted with Suggested Fixed Cost
+2016-08-08 3:30:52 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000348
+2016-08-08 3:36:14 PM-Quote Accepted with Suggested Fixed Cost
+2016-08-08 3:43:17 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000349
+2016-08-08 3:46:47 PM-Quote Accepted with Suggested Fixed Cost
+2016-08-08 3:54:02 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000350
+2016-08-08 3:55:26 PM-Quote Regected By driver :D1617000002
+2016-08-08 5:18:57 PM-Quote Regected By driver :D1516000006
+2016-08-08 5:19:22 PM-Quote Regected By driver :D1516000006
+2016-08-08 5:51:36 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000356
+2016-08-08 5:52:57 PM-Quote Accepted with Suggested Fixed Cost
+2016-08-09 10:26:47 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000360
+2016-08-09 10:33:33 AM-Quote Regected By driver :D1516000006
+2016-08-09 10:34:38 AM-Quote Regected By driver :D1516000006
+2016-08-09 10:35:23 AM-Quote Regected By driver :D1516000006
+2016-08-09 10:36:09 AM-Quote Regected By driver :D1516000006
+2016-08-09 4:01:41 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000364
+2016-08-09 4:06:21 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000365
+2016-08-09 4:39:20 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000371
+2016-08-10 12:50:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001118
+2016-08-10 12:54:43 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001120
+2016-08-10 1:55:14 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001124
+2016-08-10 2:27:24 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001130
+2016-08-11 12:19:40 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001052
+2016-08-11 4:37:33 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001120
+2016-08-11 5:52:44 PM-Load Inquiry update With  Inquire ID : P1617001125
+2016-08-11 5:54:50 PM-Load Inquiry update With  Inquire ID : P1617001125
+2016-08-16 5:06:56 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001143
+2016-08-16 5:14:09 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001144
+2016-08-16 5:18:41 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001145
+2016-08-16 5:19:18 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001146
+2016-08-16 6:55:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001147
+2016-08-17 11:02:07 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001148
+2016-08-19 5:14:05 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001175
+2016-08-19 5:14:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001176
+2016-08-19 5:31:36 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001177
+2016-08-22 6:40:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-22 6:40:32 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000472
+2016-08-23 10:39:16 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:39:25 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:40:32 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:44:04 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:48:28 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:49:13 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:50:33 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:50:56 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 10:57:55 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 11:05:33 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-23 3:58:28 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 11:09:32 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001444
+2016-08-24 11:49:10 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 8:14:20 PM-Load Inquiry update With  Inquire ID : P1617001480
+2016-08-24 8:15:45 PM-Load Inquiry update With  Inquire ID : P1617001480
+2016-08-24 8:16:51 PM-Load Inquiry update With  Inquire ID : P1617001480
+2016-08-24 8:32:34 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 8:33:02 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000540
+2016-08-24 8:58:10 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 8:58:20 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000545
+2016-08-24 9:44:01 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 9:44:06 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000551
+2016-08-24 9:57:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-24 9:57:28 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000555
+2016-08-26 2:38:47 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001299
+2016-08-26 2:41:20 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001301
+2016-08-26 2:42:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:44:00 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:44:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:46:17 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:46:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:50:04 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 2:55:24 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:07:17 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:08:01 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:11:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:13:21 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:27:41 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 3:33:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 4:06:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 4:12:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-26 4:14:06 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-27 12:01:56 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001313
+2016-08-27 12:03:10 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-27 12:03:33 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-27 12:03:45 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000388
+2016-08-28 3:53:16 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-28 3:54:15 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000568
+2016-08-28 4:07:49 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-28 4:08:35 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-28 4:08:45 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-28 4:09:46 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-28 4:10:22 PM-Load Inquiry Saved With Quotation Inquire ID : 
+2016-08-31 6:10:39 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 11:34:00 AM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:02:18 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:06:18 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:09:43 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:12:59 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:14:28 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 12:18:25 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 6:09:54 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-01 6:35:52 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-01 6:37:08 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-01 7:29:31 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-02 2:22:49 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-02 2:30:02 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-02 2:30:44 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-02 2:33:19 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-03 6:42:35 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-03 6:43:08 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-03 6:43:50 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-03 6:44:24 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000691
+2016-09-05 12:59:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-05 1:55:16 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-05 4:27:07 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002139
+2016-09-05 4:42:05 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-05 4:42:18 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000709
+2016-09-06 11:13:44 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:03:45 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:19:22 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:20:47 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:29:29 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:36:13 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:37:36 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:40:57 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:41:10 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:42:11 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:43:06 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 12:43:57 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 5:19:46 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 5:46:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 5:51:55 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000771
+2016-09-06 5:52:15 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-06 5:52:49 PM-Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-07 12:28:11 PM-Truck Current Position Saved : 
+2016-09-08 12:20:44 PM-Driver Master Saved : OwnerId = , DriverId = D1617000600
+2016-09-08 4:55:29 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 5:31:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 5:32:19 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 5:32:34 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000850
+2016-09-08 6:56:16 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 7:00:18 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 7:04:21 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002551
+2016-09-08 7:04:24 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000853
+2016-09-08 7:08:38 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 7:11:01 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-08 7:12:53 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000856
+2016-09-08 7:15:05 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000857
+2016-09-09 2:58:18 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-09 2:59:23 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000881
+2016-09-09 7:44:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002614
+2016-09-09 7:45:35 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002615
+2016-09-09 7:47:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002616
+2016-09-09 7:47:49 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000887
+2016-09-09 7:52:20 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002618
+2016-09-09 7:52:22 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000888
+2016-09-09 7:53:53 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002620
+2016-09-09 7:54:04 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000889
+2016-09-09 7:55:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002622
+2016-09-09 7:55:35 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000890
+2016-09-09 8:06:15 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002624
+2016-09-09 8:06:17 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000891
+2016-09-10 5:27:51 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-12 11:31:41 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-12 11:34:50 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-12 3:28:49 PM-Load Inquiry update With  Inquire ID : P1617002715
+2016-09-12 4:40:51 PM-Load Inquiry update With  Inquire ID : P1617002728
+2016-09-12 5:01:50 PM-Load Inquiry update With  Inquire ID : P1617002728
+2016-09-12 5:05:12 PM-Load Inquiry update With  Inquire ID : P1617002728
+2016-09-12 5:06:49 PM-Load Inquiry update With  Inquire ID : P1617002728
+2016-09-12 5:22:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-12 5:23:17 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-13 11:51:11 AM- Driver : D1516000007 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-09-13 11:51:54 AM- Driver : D1516000007 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-09-13 11:52:09 AM- Driver : D1516000007 METHOD : /api/driver/UpdateOnduty HOST :localhost
+2016-09-14 8:24:02 PM-Inquiry/Mailer Email Saved: joshiurvashi2005@gmail.com
+2016-09-16 2:07:04 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-16 2:11:03 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002895
+2016-09-16 2:42:39 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002896
+2016-09-16 2:46:59 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002897
+2016-09-16 2:51:34 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002898
+2016-09-16 5:39:30 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002899
+2016-09-16 5:40:07 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002900
+2016-09-16 5:45:00 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002901
+2016-09-16 5:45:02 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002902
+2016-09-16 5:48:55 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002903
+2016-09-16 5:52:05 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002904
+2016-09-16 5:54:05 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002905
+2016-09-16 5:54:17 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002906
+2016-09-16 5:57:54 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002907
+2016-09-16 6:00:18 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002908
+2016-09-16 6:00:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002909
+2016-09-16 6:05:03 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002910
+2016-09-16 6:08:28 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002911
+2016-09-16 6:19:04 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002912
+2016-09-16 6:19:54 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002913
+2016-09-16 6:28:29 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002914
+2016-09-16 6:29:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002915
+2016-09-16 6:32:32 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002916
+2016-09-16 6:35:27 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002917
+2016-09-16 6:36:28 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002918
+2016-09-16 6:36:59 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002919
+2016-09-16 6:37:45 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002920
+2016-09-16 6:41:38 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002921
+2016-09-16 6:44:50 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002922
+2016-09-16 6:44:55 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002923
+2016-09-16 6:45:19 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002924
+2016-09-16 6:45:49 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002925
+2016-09-16 6:47:47 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002926
+2016-09-16 7:00:19 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002927
+2016-09-16 7:43:58 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-16 7:45:10 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-16 7:45:51 PM-Mailer Email Saved: jaiminpatel520@gmail.com
+2016-09-16 7:49:57 PM-Mailer Email Saved: jaiminpatel520@gmail.com
+2016-09-16 7:54:07 PM-Mailer Email Saved: jaiminpatel520@gmail.com
+2016-09-16 7:55:32 PM-Mailer Email Saved: jaiminpatel520@gmail.com
+2016-09-16 7:57:04 PM-Mailer Email Saved: jaiminpatel520@gmail.com
+2016-09-16 7:59:22 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-16 7:59:52 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-16 8:00:42 PM-Mailer Email Saved: vatsalpatel2606@gmail.com
+2016-09-16 8:03:03 PM-Mailer Email Saved: 13mca031.jaimin@gmail.com
+2016-09-16 8:05:35 PM-Mailer Email Saved: 14mcal130.nirav@gmail.com
+2016-09-17 11:42:27 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002980
+2016-09-17 11:43:51 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617002981
+2016-09-17 2:08:47 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 2:53:35 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 2:55:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 3:04:35 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 3:08:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 3:18:48 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 3:25:51 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 3:59:01 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-17 5:28:09 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 5:33:55 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 5:35:47 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 6:53:08 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 6:56:42 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 7:00:49 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-17 7:13:45 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 4:36:29 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 4:41:25 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 4:48:51 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 4:50:52 PM-Mailer Email Saved: 14mcal130.nirav@gmail.com
+2016-09-19 4:54:07 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:15:20 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:24:19 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:29:29 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:32:49 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:34:34 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 5:40:12 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-19 8:01:23 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-19 8:22:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-20 10:59:36 AM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 11:13:45 AM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 3:33:55 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 3:40:46 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 3:42:08 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 3:46:20 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-20 3:50:41 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-21 5:00:23 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-21 5:56:16 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-21 6:43:07 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-22 4:27:03 PM-Mailer Email Saved: sandippr12@gmail.com
+2016-09-23 11:21:00 AM-Load Inquiry Saved With Quotation Inquire ID : L1617001099
+2016-09-26 12:55:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617003612
+2016-09-26 1:01:25 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 1:05:01 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 1:46:24 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 1:48:49 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 1:53:54 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 1:55:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-26 2:02:25 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-26 2:03:18 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-26 2:05:37 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-26 2:05:48 PM-Load Inquiry update With  Inquire ID : P1617003613
+2016-09-26 3:01:17 PM-Load Inquiry update With  Inquire ID : P1617003658
+2016-09-26 3:21:36 PM-Inquiry/Mailer Email Saved: jatin@gmail.com
+2016-09-26 3:22:36 PM-Inquiry/Mailer Email Saved: jatin@gmail.com
+2016-09-26 4:20:12 PM-Load Inquiry update With  Inquire ID : P1617003576
+2016-09-26 4:22:03 PM-Load Inquiry update With  Inquire ID : P1617003576
+2016-09-26 4:32:27 PM-Load Inquiry update With  Inquire ID : P1617003576
+2016-09-26 6:58:37 PM-Load Inquiry update With  Inquire ID : P1617003765
+2016-09-27 11:08:12 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617003721
+2016-09-27 11:08:38 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:10:05 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:10:50 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:12:23 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:13:16 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:16:38 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:17:03 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 11:31:23 AM-Load Inquiry update With  Inquire ID : P1617003721
+2016-09-27 4:40:56 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-27 4:45:26 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-27 4:59:53 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-27 5:02:38 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-27 5:11:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-27 6:27:00 PM-Load Inquiry update With  Inquire ID : P1617000669
+2016-09-29 12:10:00 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000346
+2016-09-29 12:22:59 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000354
+2016-09-30 3:16:28 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000902
+2016-09-30 3:55:29 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000001
+2016-09-30 3:57:08 PM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+2016-09-30 3:57:18 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000001
+2016-09-30 4:46:41 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000002
+2016-09-30 4:46:56 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000002
+2016-09-30 4:48:07 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000004
+2016-09-30 4:48:42 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000003
+2016-09-30 4:50:13 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000921
+2016-09-30 4:50:23 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000356
+2016-09-30 4:57:52 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000923
+2016-09-30 4:58:07 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000358
+2016-09-30 5:47:23 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617000936
+2016-09-30 5:50:20 PM-Load Inquiry Saved With Quotation Inquire ID : L1617000363
+2016-10-01 12:01:50 PM-Inquiry/Mailer Email Saved: jatin@gmail.com
+2016-10-01 12:16:12 PM-Inquiry/Mailer Email Saved: jatin@gmail.com
+2016-10-01 12:20:45 PM-Inquiry/Mailer Email Saved: jatin@gmail.com
+2016-10-01 3:23:29 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-01 4:28:55 PM-Inquiry/Mailer Email Saved: mitishah123@gmail.com
+2016-10-01 4:53:42 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617004433
+2016-10-01 4:53:57 PM-Load Inquiry Saved With Quotation Inquire ID : L1617001307
+2016-10-01 4:55:22 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617004435
+2016-10-01 4:56:10 PM-Load Inquiry Saved With Quotation Inquire ID : L1617001308
+2016-10-01 5:08:08 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-03 11:54:23 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617004467
+2016-10-03 11:54:26 AM-Load Inquiry Saved With Quotation Inquire ID : L1617001316
+2016-10-03 12:44:10 PM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617004479
+2016-10-03 12:45:08 PM-Load Inquiry Saved With Quotation Inquire ID : L1617001319
+2016-10-03 7:09:53 PM-SaveTruckPosition({"driver_id":"D1617000310","truck_id":"T1516000101","log_date":null,"load_inquiry_no":"","truck_lat":"23.0148477","truck_lng":"72.5037688","truck_location":"A-305, Sarkhej - Gandhinagar Highway","active_flag":null,"created_by":"456456456","created_date":null,"created_host":"4ac914d521a43a7a","device_id":"4ac914d521a43a7a","device_type":"Android-Mobile","remaining_kms":"","eta":"0"})
+2016-10-03 7:10:40 PM-SaveTruckPosition( Truck Current Position Saved : )
+2016-10-03 7:20:16 PM-SaveTruckPosition({"driver_id":"D1617000310","truck_id":"T1516000101","log_date":null,"load_inquiry_no":"","truck_lat":"23.0148477","truck_lng":"72.5037688","truck_location":"A-305, Sarkhej - Gandhinagar Highway","active_flag":null,"created_by":"456456456","created_date":null,"created_host":"4ac914d521a43a7a","device_id":"4ac914d521a43a7a","device_type":"Android-Mobile","remaining_kms":"","eta":"0"})
+2016-10-03 7:28:03 PM-SaveTruckPosition( Truck Current Position Saved : )
+2016-10-04 11:14:29 AM-Temp Load Inquiry Saved With Quotation Inquire ID : P1617001087
+2016-10-04 11:14:36 AM-Load Inquiry Saved With Quotation Inquire ID : L1617000421
+2016-10-04 2:04:01 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-04 2:20:42 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-04 2:22:04 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-04 2:22:23 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+2016-10-04 2:30:21 PM-Inquiry/Mailer Email Saved: sandippr12@gmail.com
+11/18/16 1:56:58 PM-Driver Insurance, Identification Image Upload 
+11/18/16 3:28:25 PM-Truck Master Saved : T1617000127
+11/18/16 4:26:06 PM-Truck Master Saved : T1617000130
+11/18/16 4:27:41 PM-Truck Master Saved : T1617000131
+11/18/16 5:11:55 PM-Driver Master Saved : OwnerId = , DriverId = D1617000610
+11/18/16 6:18:46 PM-Driver Master Saved : OwnerId = , DriverId = D1617000613
+11/18/16 6:26:02 PM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/18/16 6:28:22 PM-Driver Insurance, Identification Image Upload 
+11/18/16 6:28:30 PM-Driver Insurance, Identification Image Upload 
+11/18/16 7:03:10 PM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/19/16 2:45:12 PM-Driver Master Saved : OwnerId = , DriverId = 540972
+11/19/16 3:05:45 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 3:16:17 PM-Driver Master Saved : OwnerId = , DriverId = D1617000616
+11/19/16 4:01:43 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 4:03:31 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 4:05:09 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 4:05:43 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 4:22:31 PM-Driver Master Saved : OwnerId = , DriverId = D1617000617
+11/19/16 5:10:24 PM-Driver Insurance, Identification Image Upload 
+11/19/16 5:51:22 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 5:55:28 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 6:02:05 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 6:02:51 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 6:04:14 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 6:04:40 PM-Driver Master Saved : OwnerId = , DriverId = D1617000615
+11/19/16 6:26:29 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:27:09 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:27:57 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:37:05 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:37:34 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:46:27 PM-Driver Master Saved : OwnerId = , DriverId = D1617000630
+11/19/16 6:54:33 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:56:48 PM-Driver Insurance, Identification Image Upload 
+11/19/16 6:58:58 PM-Driver Insurance, Identification Image Upload 
+11/19/16 7:23:26 PM-Driver Insurance, Identification Image Upload 
+11/19/16 7:41:34 PM-Driver Insurance, Identification Image Upload 
+11/19/16 7:41:53 PM-Driver Insurance, Identification Image Upload 
+11/19/16 7:46:40 PM-Driver Insurance, Identification Image Upload 
+11/19/16 8:03:16 PM-Driver Insurance, Identification Image Upload 
+11/19/16 8:04:18 PM-Driver Insurance, Identification Image Upload 
+11/19/16 8:04:23 PM-Driver Insurance, Identification Image Upload 
+11/21/16 11:14:36 AM-Load Inquiry update With  Inquire ID : P1617007712
+11/21/16 11:31:56 AM-Driver Insurance, Identification Image Upload 
+11/21/16 11:34:33 AM-Driver Insurance, Identification Image Upload 
+11/21/16 11:34:41 AM-Driver Insurance, Identification Image Upload 
+11/21/16 12:35:43 PM-Driver Master Saved : OwnerId = , DriverId = D1617000637
+11/21/16 12:36:36 PM-Driver Master Saved : OwnerId = , DriverId = D1617000637
+11/21/16 12:38:27 PM-Driver Master Saved : OwnerId = , DriverId = D1617000637
+11/21/16 12:52:16 PM-Driver Master Saved : OwnerId = , DriverId = D1617000637
+11/21/16 5:20:19 PM-Load Inquiry update With  Inquire ID : P1617002380
+11/21/16 5:23:06 PM-Load Inquiry update With  Inquire ID : P1617002380
+11/21/16 7:03:50 PM-Mailer Email Saved: sandippr12@gmail.com
+11/21/16 7:05:47 PM-Mailer Email Saved: sandippr12@gmail.com
+11/23/16 5:46:35 AM-Truck Master Saved : T1617000150
+11/23/16 8:33:06 AM-Truck Master Saved : T1617000151
+11/23/16 8:34:32 AM-Truck Master Saved : T1617000152
+11/23/16 8:47:12 AM-Truck Master Saved : T1617000153
+11/23/16 8:50:42 AM-Truck Master Saved : T1617000154
+11/23/16 11:36:50 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/23/16 1:11:09 PM-Driver Insurance, Identification Image Upload 
+11/23/16 1:26:34 PM-Driver Insurance, Identification Image Upload 
+11/23/16 1:27:25 PM-Driver Insurance, Identification Image Upload 
+11/23/16 1:30:20 PM-Driver Insurance, Identification Image Upload 
+11/23/16 1:31:24 PM-Driver Insurance, Identification Image Upload 
+11/23/16 1:32:25 PM-Driver Insurance, Identification Image Upload 
+11/24/16 4:43:24 AM-Driver Insurance, Identification Image Upload 
+11/24/16 4:46:25 AM-Driver Insurance, Identification Image Upload 
+11/24/16 4:46:50 AM-Driver Insurance, Identification Image Upload 
+11/24/16 5:49:26 AM-Driver Master Saved : OwnerId = , DriverId = D1617000637
+11/24/16 7:21:31 AM-Driver Master Saved : OwnerId = , DriverId = D1516000007
+11/24/16 7:22:06 AM-Driver Master Saved : OwnerId = , DriverId = D1516000007
+11/24/16 7:22:35 AM-Driver Insurance, Identification Image Upload 
+11/24/16 7:23:04 AM-Driver Insurance, Identification Image Upload 
+11/24/16 7:24:32 AM-Driver Insurance, Identification Image Upload 
+11/24/16 7:25:00 AM-Driver Insurance, Identification Image Upload 
+11/24/16 7:26:49 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:35:12 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:35:25 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:36:09 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:36:20 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:36:46 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:37:08 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:37:37 AM-Driver Insurance, Identification Image Upload 
+11/24/16 8:37:46 AM-Driver Insurance, Identification Image Upload 
+11/24/16 9:10:17 AM-Driver Insurance, Identification Image Upload 
+11/24/16 9:10:23 AM-Driver Insurance, Identification Image Upload 
+11/24/16 9:12:23 AM-Driver Insurance, Identification Image Upload 
+11/24/16 9:13:00 AM-Driver Insurance, Identification Image Upload 
+11/24/16 9:29:21 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 9:29:38 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 9:30:57 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 9:31:36 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 9:32:42 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 9:33:45 AM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 11:18:09 AM-Driver Master Saved : OwnerId = , DriverId = D1617000643
+11/24/16 11:27:41 AM-Driver Insurance, Identification Image Upload 
+11/24/16 11:29:18 AM-Driver Insurance, Identification Image Upload 
+11/24/16 11:33:28 AM-Driver Insurance, Identification Image Upload 
+11/24/16 11:38:11 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 11:49:16 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 11:50:38 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 11:52:44 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 11:55:14 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 11:57:12 AM-Driver Master Saved : OwnerId = , DriverId = D1617000644
+11/24/16 1:13:17 PM-Truck Master Saved : T1617000160
+11/24/16 1:19:32 PM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 1:22:23 PM-RTO Permit Details, Insurance Details Updated For Image Upload
+11/24/16 1:26:26 PM-RTO Permit Details, Insurance Details Updated For Image Upload
+12/02/16 1:20:12 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/02/16 1:20:39 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/02/16 1:28:23 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/02/16 1:36:53 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/02/16 1:40:22 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/02/16 1:41:07 PM-Load Inquiry Saved With Quotation Inquire ID : 
+12/05/16 6:29:40 AM-Mailer Email Saved: sandippr12@gmail.com
+12/05/16 7:27:25 AM-Mailer Email Saved: jaiminpatel520@gmail.com
+12/05/16 7:27:44 AM-Mailer Email Saved: naisudesai@gmail.com
+12/05/16 7:28:12 AM-Mailer Email Saved: naisudesai@gmail.com
+12/05/16 7:30:45 AM-Mailer Email Saved: naisudesai@gmail.com
+12/06/16 8:49:50 AM-Load Inquiry Saved With Quotation Inquire ID : L1617002249
+12/07/16 12:54:46 PM-Load Inquiry update With  Inquire ID : P1617008197
+12/07/16 12:55:22 PM-Load Inquiry update With  Inquire ID : P1617008197
+12/08/16 6:16:43 AM-Load Inquiry update With  Inquire ID : P1617008212
+12/08/16 1:36:28 PM-Load Inquiry update With  Inquire ID : P1617002599
+12/14/16 10:01:31 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 10:02:39 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 10:03:22 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 10:21:52 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 10:24:26 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 10:25:24 AM-Load Inquiry update With  Inquire ID : P1617008517
+12/14/16 11:11:57 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+12/14/16 11:21:50 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+12/14/16 11:47:05 AM-Temp Load Inquiry Saved With Quotation Inquire ID : 
+01/09/17 7:24:52 AM-Load Inquiry Saved With Quotation Inquire ID : 
+01/09/17 7:27:43 AM-Load Inquiry Saved With Quotation Inquire ID : 
+01/09/17 7:29:28 AM-Load Inquiry Saved With Quotation Inquire ID : 
+01/17/17 11:25:43 AM-Quote Regected By driver :D1718000365
+01/22/17 8:38:44 AM-Quote Request available 
+01/22/17 8:41:52 AM-Quote Request available 
+01/22/17 8:42:18 AM-Quote Request available 
+01/22/17 8:42:47 AM-Quote Request available 
+01/22/17 8:43:08 AM-Quote Request available 
+01/22/17 8:43:27 AM-Quote Request available 
+01/22/17 9:34:04 AM-Quote Request available 
+01/22/17 9:35:23 AM-Quote Request available 
+01/22/17 9:36:07 AM-Quote Request available 
+01/22/17 9:39:09 AM-Quote Request available 
+01/22/17 9:54:06 AM-Quote Request available 
+01/22/17 9:54:51 AM-Quote Request available 
+01/22/17 9:55:19 AM-Quote Request available 
+01/22/17 9:55:59 AM-Quote Request available 
+01/22/17 9:56:04 AM-Quote Request available 
+01/22/17 9:56:25 AM-Quote Request available 
+01/22/17 9:57:18 AM-Quote Request available 
+01/22/17 9:58:22 AM-Quote Request available 
+01/22/17 10:06:27 AM-Quote Request available 
+01/22/17 10:07:27 AM-Quote Request available 
+01/22/17 10:08:16 AM-Quote Request available 
+01/22/17 10:09:37 AM-Quote Request available 
+01/22/17 10:14:41 AM-Quote Request available 
+01/22/17 10:15:49 AM-Quote Request available 
+01/22/17 10:16:06 AM-Quote Request available 
+01/22/17 10:26:50 AM-Quote Request available 
+01/22/17 10:27:03 AM-Quote Request available 
+01/22/17 10:27:25 AM-Quote Request available 
+01/22/17 10:29:18 AM-Quote Request available 
+01/22/17 10:30:00 AM-Quote Request available 
+01/22/17 10:30:23 AM-Quote Request available 
+01/22/17 10:46:51 AM-Quote Request available 
+01/22/17 10:50:03 AM-Quote Request available 
+01/22/17 10:50:29 AM-Quote Request available 
+01/22/17 10:52:50 AM-Quote Request available 
+01/22/17 11:06:16 AM-Quote Request available 
+01/22/17 11:28:43 AM-Quote Request available 
+01/22/17 11:29:10 AM-Quote Request available 
+01/22/17 11:29:14 AM-Quote Request available 
+01/22/17 11:29:23 AM-Quote Request available 
+01/22/17 11:30:26 AM-Quote Request available 
+01/22/17 11:31:00 AM-Quote Request available 
+01/22/17 11:34:48 AM-Quote Request available 
+01/22/17 11:37:24 AM-Quote Request available 
+01/22/17 11:37:27 AM-Quote Request available 
+01/22/17 11:37:28 AM-Quote Request available 
+01/22/17 11:37:29 AM-Quote Request available 
+01/22/17 11:37:29 AM-Quote Request available 
+01/22/17 11:37:30 AM-Quote Request available 
+01/22/17 11:37:30 AM-Quote Request available 
+01/22/17 11:37:31 AM-Quote Request available 
+01/22/17 11:37:31 AM-Quote Request available 
+01/22/17 11:37:54 AM-Quote Request available 
+01/22/17 11:38:08 AM-Quote Request available 
+01/22/17 11:39:00 AM-Quote Request available 
+01/22/17 11:39:44 AM-Quote Request available 
+01/22/17 11:47:47 AM-Quote Request available 
+01/22/17 11:48:03 AM-Quote Request available 
+01/22/17 12:09:41 PM-Quote Request available 
+01/22/17 12:10:15 PM-Quote Request available 
+01/22/17 12:10:19 PM-Quote Request available 
+01/22/17 12:10:52 PM-Quote Request available 
+01/22/17 12:23:42 PM-Quote Request available 
+01/22/17 12:24:14 PM-Quote Request available 
+01/22/17 12:33:15 PM-Quote Request available 
+01/22/17 12:34:19 PM-Quote Request available 
+01/22/17 1:17:43 PM-Quote Request available 
+01/22/17 1:18:58 PM-Quote Request available 
+01/22/17 1:24:20 PM-Quote Request available 
+01/22/17 1:36:19 PM-Quote Request available 
+01/22/17 1:37:31 PM-Quote Request available 
+01/22/17 1:38:34 PM-Quote Request available 
+01/22/17 1:42:08 PM-Quote Request available 
+01/22/17 1:54:32 PM-Quote Request available 
+01/22/17 2:06:43 PM-Quote Request available 
+01/22/17 2:08:00 PM-Quote Request available 
+01/22/17 2:08:53 PM-Quote Request available 
+01/23/17 5:06:07 AM-Quote Request available 
+01/23/17 8:12:55 AM-Quote Request available 
+01/23/17 8:16:52 AM-Quote Request available 
+01/23/17 8:18:24 AM-Quote Request available 
+01/23/17 8:19:21 AM-Quote Request available 
+01/23/17 8:20:08 AM-Quote Request available 
+01/23/17 8:20:13 AM-Quote Request available 
+01/23/17 8:21:01 AM-Quote Request available 
+01/23/17 8:38:06 AM-Quote Request available 
+01/23/17 8:38:09 AM-Quote Request available 
+01/23/17 8:39:10 AM-Quote Request available 
+01/23/17 8:46:03 AM-Quote Request available 
+01/23/17 8:46:29 AM-Quote Request available 
+01/23/17 8:48:32 AM-Quote Request available 
+01/23/17 9:02:17 AM-Quote Request available 
+01/23/17 10:01:58 AM-Quote Request available 
+01/23/17 10:30:45 AM-Quote Request available 
+01/23/17 10:35:31 AM-Quote Request available 
+01/23/17 11:03:22 AM-Quote Request available 
+01/23/17 11:22:05 AM-Quote Request available 
+01/23/17 11:24:07 AM-Quote Request available 
+01/23/17 12:00:07 PM-Quote Request available 
+01/23/17 12:00:28 PM-Quote Request available 
+01/23/17 12:26:24 PM-Quote Request available 
+01/23/17 12:27:39 PM-Quote Request available 
+01/23/17 12:30:38 PM-Quote Request available 
+01/23/17 12:54:38 PM-Quote Request available 
+01/23/17 1:01:36 PM-Quote Request available 
+01/23/17 1:06:54 PM-Quote Request available 
+01/23/17 1:08:33 PM-Quote Request available 
+01/23/17 1:09:08 PM-Quote Request available 
+01/23/17 1:10:14 PM-Quote Request available 
+01/23/17 1:10:43 PM-Quote Request available 
+01/24/17 4:50:38 AM-Quote Request available 
+01/24/17 4:50:57 AM-Quote Request available 
+01/24/17 4:51:47 AM-Quote Request available 
+01/24/17 4:53:56 AM-Quote Request available 
+01/24/17 4:55:03 AM-Quote Request available 
+01/24/17 4:55:08 AM-Quote Request available 
+01/24/17 4:55:16 AM-Quote Request available 
+01/24/17 4:57:05 AM-Quote Request available 
+01/24/17 4:58:19 AM-Quote Request available 
+01/24/17 4:58:44 AM-Quote Request available 
+01/24/17 4:59:52 AM-Quote Request available 
+01/24/17 5:02:21 AM-Quote Request available 
+01/24/17 5:03:11 AM-Quote Request available 
+01/24/17 5:03:18 AM-Quote Request available 
+01/24/17 5:03:54 AM-Quote Request available 
+01/24/17 5:04:14 AM-Quote Request available 
+01/24/17 5:04:39 AM-Quote Request available 
+01/24/17 5:29:29 AM-Quote Request available 
+01/24/17 5:29:47 AM-Quote Request available 
+01/24/17 6:13:17 AM-Quote Request available 
+01/24/17 6:18:24 AM-Quote Request available 
+01/24/17 6:19:07 AM-Quote Request available 
+01/24/17 6:19:24 AM-Quote Request available 
+01/24/17 8:37:15 AM-Quote Request available 
+02/07/17 1:04:53 PM-Quote Request available 
+02/07/17 1:26:18 PM-Order Completed for Inq Id = P1718002940
+02/07/17 1:26:27 PM-Invoice Start = P1718002940
+02/07/17 1:26:44 PM-Invoice Generated = P1718002940
+02/08/17 7:27:10 AM-Order Completed for Inq Id = P1718002970
+02/08/17 7:27:19 AM-Invoice Start = P1718002970
+02/08/17 7:27:33 AM-Invoice Generated = P1718002970
+02/08/17 11:35:59 AM-Order Completed for Inq Id = P1718002999
+02/08/17 11:36:11 AM-Invoice Start = P1718002999
+02/08/17 12:02:20 PM-Order Completed for Inq Id = P1718002999
+02/08/17 12:02:30 PM-Invoice Start = P1718002999
+02/08/17 12:03:08 PM-Invoice Generated = P1718002999
+02/13/17 5:03:34 PM-Driver Master Saved : OwnerId = , DriverId = D1617000325
+02/14/17 4:41:52 AM-Driver Master Saved : OwnerId = , DriverId = D1617000325
+02/14/17 4:50:45 AM-Driver Master Saved : OwnerId = , DriverId = D1617000325
+02/18/17 5:11:26 AM-Quote Request available 

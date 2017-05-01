@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_UserAttachmentOperationHistory" targetNamespace="http://tempuri.org/DS_UserAttachmentOperationHistory.xsd" xmlns:mstns="http://tempuri.org/DS_UserAttachmentOperationHistory.xsd" xmlns="http://tempuri.org/DS_UserAttachmentOperationHistory.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MgmtMessagingConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="MgmtMessagingConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.XSD.Properties.Settings.GlobalReference.Default.MgmtMessagingConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_UserAttachmentOperationHistory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_UserAttachmentOperationHistory" msprop:Generator_UserDSName="DS_UserAttachmentOperationHistory">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="UserAttachmentOperationHistory" msprop:Generator_TableClassName="UserAttachmentOperationHistoryDataTable" msprop:Generator_TableVarName="tableUserAttachmentOperationHistory" msprop:Generator_TablePropName="UserAttachmentOperationHistory" msprop:Generator_RowDeletingName="UserAttachmentOperationHistoryRowDeleting" msprop:Generator_RowChangingName="UserAttachmentOperationHistoryRowChanging" msprop:Generator_RowEvHandlerName="UserAttachmentOperationHistoryRowChangeEventHandler" msprop:Generator_RowDeletedName="UserAttachmentOperationHistoryRowDeleted" msprop:Generator_UserTableName="UserAttachmentOperationHistory" msprop:Generator_RowChangedName="UserAttachmentOperationHistoryRowChanged" msprop:Generator_RowEvArgName="UserAttachmentOperationHistoryRowChangeEvent" msprop:Generator_RowClassName="UserAttachmentOperationHistoryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AppName" msprop:Generator_ColumnVarNameInTable="columnAppName" msprop:Generator_ColumnPropNameInRow="AppName" msprop:Generator_ColumnPropNameInTable="AppNameColumn" msprop:Generator_UserColumnName="AppName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UniqueId" msprop:Generator_ColumnVarNameInTable="columnUniqueId" msprop:Generator_ColumnPropNameInRow="UniqueId" msprop:Generator_ColumnPropNameInTable="UniqueIdColumn" msprop:Generator_UserColumnName="UniqueId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MessageId" msprop:Generator_ColumnVarNameInTable="columnMessageId" msprop:Generator_ColumnPropNameInRow="MessageId" msprop:Generator_ColumnPropNameInTable="MessageIdColumn" msprop:Generator_UserColumnName="MessageId" type="xs:int" />
+              <xs:element name="Operation" msprop:Generator_ColumnVarNameInTable="columnOperation" msprop:Generator_ColumnPropNameInRow="Operation" msprop:Generator_ColumnPropNameInTable="OperationColumn" msprop:Generator_UserColumnName="Operation">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OperationDateTime" msprop:Generator_ColumnVarNameInTable="columnOperationDateTime" msprop:Generator_ColumnPropNameInRow="OperationDateTime" msprop:Generator_ColumnPropNameInTable="OperationDateTimeColumn" msprop:Generator_UserColumnName="OperationDateTime" type="xs:dateTime" />
+              <xs:element name="Time" msprop:Generator_ColumnVarNameInTable="columnTime" msprop:Generator_ColumnPropNameInRow="Time" msprop:Generator_ColumnPropNameInTable="TimeColumn" msprop:Generator_UserColumnName="Time" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,262 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+
+    <title>CBM Champ</title>
+
+    <!--<meta name="description" content="" />-->
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />-->
+    <!--<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">-->
+
+    <!-- bootstrap & fontawesome -->
+    <link rel="stylesheet" href="../Content/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../content/assets/font-awesome/4.2.0/css/font-awesome.min.css" />
+
+    <!-- text fonts -->
+    <link rel="stylesheet" href="../content/assets/fonts/fonts.googleapis.com.css" />
+
+    <!-- ace styles -->
+    <link rel="stylesheet" href="../content/assets/css/ace.min.css" class="ace-main-stylesheet" id="main-ace-style" />
+
+    <script type="text/javascript" src="../content/assets/js/ace-extra.min.js"></script>
+    <style type="text/css">
+        label {
+            font-weight: bold;
+        }
+
+        td {
+            font-weight: bold;
+        }
+
+            td > button {
+                border-radius: 68px;
+                height: 25px;
+                width: 28px;
+            }
+
+        tr {
+            padding: 2px;
+            height: 30px;
+        }
+
+        .panel-default > .panel-heading {
+            color: white;
+            background-color: #646464;
+            border-color: #646464;
+            font-weight: bold;
+            font-size: large;
+        }
+
+        .round_btn_add {
+            border-radius: 0px 5px 5px 0px;
+            width: 25px;
+        }
+
+        .round_btn_minus {
+            border-radius: 5px 0px 0px 5px;
+            width: 25px;
+        }
+
+        .rounded_add_btn {
+            border-radius: 5px;
+            width: 50px;
+            height: 20px;
+            margin: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .bodysize1 {
+                width: 100%;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .bodysize1 {
+                width: 70%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <img src="Images/logo.png" style="width: 5%; height: 8%;">
+                Trukker Technologies</div>
+            <div class="panel-body">
+                <!-- PAGE CONTENT BEGINS -->
+                <form id="form1" runat="server">
+                    <div class="form-group">
+
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <input type="text" id="txt_uname" placeholder="Name" maxlength="50" class="form-control" />
+                            </div>
+
+                            <div class="col-xs-6">
+                                <input type="text" id="txt_email" placeholder="E-Mail" maxlength="50" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <br />
+                        </div>
+                        <div class="row">
+
+                            <div class="col-xs-6">
+                                <input type="text" id="txt_mobile" placeholder="Mobile No." maxlength="10" onkeypress="return event.charCode >= 48 &amp;&amp; event.charCode <= 57" class="form-control" />
+                            </div>
+                            <!--  <label id="activity" style="font-family: arial; font-style: normal; color: white;">00</label>-->
+
+                            <div class="col-xs-6">
+                                <select id="apartment_size" name="apartment_size" class="form-control"></select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group" style="color: #646464; margin-top: 10px!important;">
+                        <table style="width: 100%">
+                            <tr>
+                                <th class="col-xs-6" style="text-align: left"><b style="font-size: 15px;">Moving From</b></th>
+                                <br />
+                                <th class="col-xs-6" style="text-align: right"><b style="font-size: 15px;">Moving To</b></th>
+
+                            </tr>
+                            <tr>
+                                <td class="col-xs-6" style="text-align: left">
+                                    <label id="lblFrom" class="form-label"></label>
+                                </td>
+                                <td class="col-xs-6" style="text-align: right">
+                                    <label id="lblTo" class="form-label"></label>
+                                </td>
+
+                            </tr>
+                        </table>
+                    </div>
+
+
+                    <div id="table_content_1" class="form-group" style="text-align: center; background-color: #F9F9F9; color: #878787;">
+                        <table id="table_content_2" class="table" style="color: #767676; width: 100%; background-color: #F9F9F9">
+                            <tr>
+                                <td>
+                                    <img src="Images/calendar.png" width="20" alt="" />
+                                    <label id="date_id">
+                                        00/00/00
+                                    </label>
+                                </td>
+                                <td>
+                                    <img src="Images/stopwatch.png" width="20" alt="" />
+                                    <label id="time_id">
+                                        00:00 PM
+                                    </label>
+                                </td>
+                                <td>
+                                    <img src="Images/truck.png" width="20" alt="" />
+                                    <label id="no_of_truck_id">
+                                        0
+                                    </label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <img src="Images/builder.png" width="20" alt="" />
+                                    <label id="helper_id">
+                                        0
+                                    </label>
+                                </td>
+                                <td>
+                                    <img src="Images/hammer.png" width="20" alt="" />
+                                    <label id="handiman_id">
+                                        0
+                                    </label>
+                                </td>
+                                <td>
+                                    <img src="Images/box.png" width="20" alt="" />
+                                    <label id="price_id">
+                                        AED 0
+                                    </label>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+
+                    <div id="room_accordian" style="padding-top: 0%" class="form-group">
+                        <h3 id="h3_1" class="" style="margin: 3px; font-weight: bolder;"><i class="fa fa-building-o"></i>Master Bedroom/Bedroom 1<a></a></h3>
+                        <table id="tbl_1" style="width: 100%;">
+                            <tbody>
+                                <tr class="col-xs-3">
+                                    <td style="color: rgb(155, 155, 155); width: 100%;">Bedroom Chair</td>
+                                    <td style="width: 100%;">
+                                        <input type="button" value="-" id="minus_1_10" name="q" class="btn-warning ace-icon glyphicon glyphicon-minus round_btn_minus" onclick="Item_minus(this.id)" style="display: none;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="inner_acc" style="display: none">
+
+
+                        <tr></tr>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <div class="col-xs-6">
+                            <div id="otp_text_div" style="display: none">
+                                <input type="text" id="otp_text" placeholder="OTP" class="form-control" />
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6">
+                            <label id="cbm_spam" style="display: block" class="form-label">Total CBM :<span id="total_cbm">0</span></label>
+                        </div>
+                    </div>
+
+                    <!--<div id="room_pdf"></div>-->
+                </form>
+
+                <!-- PAGE CONTENT ENDS -->
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script type="text/javascript">
+        window.jQuery || document.write("<script src='assets/js/jquery.min.js'>" + "<" + "/script>");
+    </script>
+    <!--  <script src="assets/js/jquery.1.11.1.min.js"></script>-->
+    <script type="text/javascript">
+        if ('ontouchstart' in document.documentElement) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>" + "<" + "/script>");
+    </script>
+    <script type="text/javascript" src="../content/assets/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" src="../content/assets/js/jquery-ui-1.10.4.custom.js"></script>
+    <script type="text/javascript" src="../content/assets/js/ace-elements.min.js"></script>
+    <script type="text/javascript" src="../content/assets/js/ace.min.js"></script>
+
+    <style>
+        #room_accordian > .ui-accordion-header {
+            background-color: #EBEBEB;
+            color: #666666;
+        }
+
+
+        #room_accordian > .ui-state-active {
+            background-color: #646464;
+            color: white;
+        }
+
+        #room_accordian > h3 > .ui-state-active {
+            background-color: #646464;
+            color: white;
+        }
+    </style>
+
+</body>
+</html>

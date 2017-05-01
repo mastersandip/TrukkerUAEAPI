@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_CouponUserHistory" targetNamespace="http://tempuri.org/DS_CouponUserHistory.xsd" xmlns:mstns="http://tempuri.org/DS_CouponUserHistory.xsd" xmlns="http://tempuri.org/DS_CouponUserHistory.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="DBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.DBConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_CouponUserHistory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_CouponUserHistory" msprop:Generator_UserDSName="DS_CouponUserHistory">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CouponUserHistory" msprop:Generator_TableClassName="CouponUserHistoryDataTable" msprop:Generator_TableVarName="tableCouponUserHistory" msprop:Generator_TablePropName="CouponUserHistory" msprop:Generator_RowDeletingName="CouponUserHistoryRowDeleting" msprop:Generator_RowChangingName="CouponUserHistoryRowChanging" msprop:Generator_RowEvHandlerName="CouponUserHistoryRowChangeEventHandler" msprop:Generator_RowDeletedName="CouponUserHistoryRowDeleted" msprop:Generator_UserTableName="CouponUserHistory" msprop:Generator_RowChangedName="CouponUserHistoryRowChanged" msprop:Generator_RowEvArgName="CouponUserHistoryRowChangeEvent" msprop:Generator_RowClassName="CouponUserHistoryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="coupon_code" msprop:Generator_ColumnVarNameInTable="columncoupon_code" msprop:Generator_ColumnPropNameInRow="coupon_code" msprop:Generator_ColumnPropNameInTable="coupon_codeColumn" msprop:Generator_UserColumnName="coupon_code">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="shipper_id" msprop:Generator_ColumnVarNameInTable="columnshipper_id" msprop:Generator_ColumnPropNameInRow="shipper_id" msprop:Generator_ColumnPropNameInTable="shipper_idColumn" msprop:Generator_UserColumnName="shipper_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="load_inquiry_no" msprop:Generator_ColumnVarNameInTable="columnload_inquiry_no" msprop:Generator_ColumnPropNameInRow="load_inquiry_no" msprop:Generator_ColumnPropNameInTable="load_inquiry_noColumn" msprop:Generator_UserColumnName="load_inquiry_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="order_id" msprop:Generator_ColumnVarNameInTable="columnorder_id" msprop:Generator_ColumnPropNameInRow="order_id" msprop:Generator_ColumnPropNameInTable="order_idColumn" msprop:Generator_UserColumnName="order_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="order_date" msprop:Generator_ColumnVarNameInTable="columnorder_date" msprop:Generator_ColumnPropNameInRow="order_date" msprop:Generator_ColumnPropNameInTable="order_dateColumn" msprop:Generator_UserColumnName="order_date" type="xs:dateTime" />
+              <xs:element name="sr_no" msprop:Generator_ColumnVarNameInTable="columnsr_no" msprop:Generator_ColumnPropNameInRow="sr_no" msprop:Generator_ColumnPropNameInTable="sr_noColumn" msprop:Generator_UserColumnName="sr_no" type="xs:int" />
+              <xs:element name="flat_discount" msprop:Generator_ColumnVarNameInTable="columnflat_discount" msprop:Generator_ColumnPropNameInRow="flat_discount" msprop:Generator_ColumnPropNameInTable="flat_discountColumn" msprop:Generator_UserColumnName="flat_discount" type="xs:decimal" />
+              <xs:element name="percentage_discount" msprop:Generator_ColumnVarNameInTable="columnpercentage_discount" msprop:Generator_ColumnPropNameInRow="percentage_discount" msprop:Generator_ColumnPropNameInTable="percentage_discountColumn" msprop:Generator_UserColumnName="percentage_discount" type="xs:decimal" />
+              <xs:element name="Total_cost" msprop:Generator_ColumnVarNameInTable="columnTotal_cost" msprop:Generator_ColumnPropNameInRow="Total_cost" msprop:Generator_ColumnPropNameInTable="Total_costColumn" msprop:Generator_UserColumnName="Total_cost" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="created_by" msprop:Generator_ColumnVarNameInTable="columncreated_by" msprop:Generator_ColumnPropNameInRow="created_by" msprop:Generator_ColumnPropNameInTable="created_byColumn" msprop:Generator_UserColumnName="created_by">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_date" msprop:Generator_ColumnVarNameInTable="columncreated_date" msprop:Generator_ColumnPropNameInRow="created_date" msprop:Generator_ColumnPropNameInTable="created_dateColumn" msprop:Generator_UserColumnName="created_date" type="xs:dateTime" />
+              <xs:element name="created_host" msprop:Generator_ColumnVarNameInTable="columncreated_host" msprop:Generator_ColumnPropNameInRow="created_host" msprop:Generator_ColumnPropNameInTable="created_hostColumn" msprop:Generator_UserColumnName="created_host">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_id" msprop:Generator_ColumnVarNameInTable="columndevice_id" msprop:Generator_ColumnPropNameInRow="device_id" msprop:Generator_ColumnPropNameInTable="device_idColumn" msprop:Generator_UserColumnName="device_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_type" msprop:Generator_ColumnVarNameInTable="columndevice_type" msprop:Generator_ColumnPropNameInRow="device_type" msprop:Generator_ColumnPropNameInTable="device_typeColumn" msprop:Generator_UserColumnName="device_type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="modified_by" msprop:Generator_ColumnVarNameInTable="columnmodified_by" msprop:Generator_ColumnPropNameInRow="modified_by" msprop:Generator_ColumnPropNameInTable="modified_byColumn" msprop:Generator_UserColumnName="modified_by" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="modified_date" msprop:Generator_ColumnVarNameInTable="columnmodified_date" msprop:Generator_ColumnPropNameInRow="modified_date" msprop:Generator_ColumnPropNameInTable="modified_dateColumn" msprop:Generator_UserColumnName="modified_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="modified_host" msprop:Generator_ColumnVarNameInTable="columnmodified_host" msprop:Generator_ColumnPropNameInRow="modified_host" msprop:Generator_ColumnPropNameInTable="modified_hostColumn" msprop:Generator_UserColumnName="modified_host" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="modified_device_id" msprop:Generator_ColumnVarNameInTable="columnmodified_device_id" msprop:Generator_ColumnPropNameInRow="modified_device_id" msprop:Generator_ColumnPropNameInTable="modified_device_idColumn" msprop:Generator_UserColumnName="modified_device_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="modified_device_type" msprop:Generator_ColumnVarNameInTable="columnmodified_device_type" msprop:Generator_ColumnPropNameInRow="modified_device_type" msprop:Generator_ColumnPropNameInTable="modified_device_typeColumn" msprop:Generator_UserColumnName="modified_device_type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CouponUserHistory" />
+      <xs:field xpath="mstns:coupon_code" />
+      <xs:field xpath="mstns:shipper_id" />
+      <xs:field xpath="mstns:load_inquiry_no" />
+      <xs:field xpath="mstns:order_id" />
+      <xs:field xpath="mstns:order_date" />
+      <xs:field xpath="mstns:sr_no" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

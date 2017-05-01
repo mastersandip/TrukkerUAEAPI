@@ -1,0 +1,1293 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script>
+
+        $(document).on("click", "#testTruckBtn", function (e) {
+
+            
+            //  var data1 = JSON.stringify({ "post_load_temp": [{ "shipper_id": "shipper", "email_id": "Sat@hotmail.com", "load_inquiry_no": "", "required_price": "", "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India", "payment_mode": "Bank", "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India", "inquiry_source_city": "Tirupati", "inquiry_destination_city": "Madurai", "inquiry_source_state": "Andhra Pradesh", "inquiry_destination_state": "Tamil Nadu", "inquiry_source_lat": "13.6225764", "inquiry_source_lng": "79.41983870000001", "source_pincode": "", "destination_pincode": "", "inquiry_destionation_lat": "9.914123199999999", "inquiry_destionation_lng": "78.14904999999999", "aprox_kms": "525", "remarks": "", "load_inquiry_truck_type": "0005", "load_inquiry_shipping_date": "21/01/2016", "load_inquiry_shipping_time": "15:30", "load_inquiry_delivery_date": "27/01/2016", "load_inquiry_delivery_time": "15:30", "load_inquiry_material_type": "05", "load_inquiry_packing": "01", "load_inquiry_load": "17", "flexible_days": "N", "load_unload_extra_hours": "0", "created_host": "122.170.174.204", "created_by": "shipper", "device_id": "122.170.174.204", "device_type": "Browser" }] });
+            //    debugger;
+            var data1 = JSON.stringify(
+          {
+                  "driver_mst": {
+                      "Name": "Altaf Hussain",
+                      "dob": "03-Dec-2011",
+                      "qualification": "102",
+                      "driver_origin": "C717",
+                      "martial_status": "M",
+                      "no_of_child": "1",
+                      "mobile_no": "525917947",
+                      "health_issues": "",
+                      "smoking": "Y",
+                      "alcohol": "Y",
+                      "legal_history": "",
+                      "commercial_experience": "2",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  },
+                  "driver_language_detail": {
+                      "active_flag": "Y",
+                      "language_data" :  [
+                                         {
+                                             'language_id': 'L002',
+                                             'Speak': 'Y',
+                                             'Read':'Y',
+                                             'Write':'Y'
+                                         }
+                      ],
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  },
+                  "driver_insurance_detail": {
+                      "insurance_policy_no": "abc",
+                      "insurance_details": "xhjfjif",
+                      "status": "Y",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  },
+                  "driver_identification_detail": [{
+                      "identification_id": "I005",
+                      "id_no": "",
+                      "id_path": "",
+                      "id_valid_from": "",
+                      "id_valid_upto": "",
+                      "status": "C",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  }, {
+                      "identification_id": "I002",
+                      "id_no": "",
+                      "id_path": "",
+                      "id_valid_from": "",
+                      "id_valid_upto": "",
+                      "status": "C",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  }, {
+                      "identification_id": "I001",
+                      "id_no": "hdjdjdj",
+                      "id_path": "\/storage\/emulated\/0\/Trukker\/IMG_20151203_210118.jpg",
+                      "id_valid_from": "03-Dec-2011",
+                      "id_valid_upto": "03-Dec-2025",
+                      "status": "Y",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  }],
+                  "driver_contact_detail": {
+                      "city": "",
+                      "state": "",
+                      "pincode": "",
+                      "phone_no": "",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  },
+                  "driver_prefered_destination": {
+                      "destination_id": "C001",
+                      "state": "",
+                      "active_flag": "Y",
+                      "created_by": "admin",
+                      "device_id": "47415f51825e20a7",
+                      "device_type": "Android-Mobile"
+                  }
+              });
+
+              //var data = JSON.stringify({ "owner": { "owner_name": "JjakskkK", "owner_type": "Individual", "date_of_birth": "25-Nov-2015", "no_of_trucks": "5", "created_by": "fdfs", "device_id": "47415f51825e20a7", "device_type": "Android-Mobile" }, "owner_contact_detail": { "address": "djjdjdks", "mobile_no": "6467664646", "created_by": "fdfs", "device_id": "47415f51825e20a7", "device_type": "Android-Mobile" } });
+              //var data = JSON.stringify({RepId: "ncharshe@zspharma.com" });
+              //var data = JSON.stringify({
+              //    "truck_owner": { "owner_id": "O1516000153", "truck_id": "T1516000091" }
+              //})
+              debugger;
+
+            //var data1 = JSON.stringify({
+
+            //        "access_code": "s31bpM1ebfNnwqo",
+            //        "amount": "1000",
+            //        "currency": "USD",
+            //        "merchant_reference": "s2b3rj1vrjrhc1x",
+            //        "order_description": "Item",
+            //        "language": "en",
+            //        "merchant_identifier": "FD1Ptq",
+            //        "signature": "a9b02b3ebb8355d4444695a4c3f6be83d11328c9a2001fa528ab7210dc443333",
+            //        "command": "CAPTURE"
+
+            //    "Login": {
+            //        "user_id": "ajay",
+            //        "password": "abc"
+            //    }
+
+
+            //var data1 = JSON.stringify({
+
+            //    //"Login": {
+            //    "user_id": "9979870937",
+            //    "password": "asdf",
+            //    "load_inquiry_no": "",
+            //    "device_id": "85691087-D7A1-4979-879D-AED4161B8BED"
+            //}
+
+            //"Login": { "user_id": "8888888888", "password": "asdf", "load_inquiry_no": "", "device_id": "c8544071aa9d0923", "device_type": "Android-Mobile" }
+            //         "Login": { "user_id": "9033562634", "password": "123123", "load_inquiry_no": "P1617000039" }
+            //  "User": [{ "user_id": "9979870937", "password": "1234" }]
+            //"User": [{
+            //    "user_id": "9033930292"
+            //}]
+
+
+
+            //"User": {
+            //    "user_id": "9408448320",
+            //    "OTP": "8521"
+            //}
+
+            //    "truck_owner": {
+            //        "owner_id": "O1516000267",
+            //        "truck_id": "T1516000249"
+            //    },
+            //    "truck_driver": "",
+            //    "owner_driver": {
+            //        "owner_id": "O1516000267",
+            //        "driver_id": "D1516000223"
+            //    },
+            //    "login_data": {
+            //        "device_type": "Android-Mobile",
+            //        "device_id": "ce69bf4a54f82c13",
+            //        "user_id": "ADMIN"
+            //    }
+            //});
+            //var data1 = JSON.stringify({
+
+            //"Shipper_master": [{
+            //    "reg_type": "SH",
+            //    "first_name": "MITI",
+            //    "last_name": "",
+            //    "address": "Test",
+            //    "email_id": "satishpateldev@gmail.com",
+            //    "user_id": "9727974355",
+            //    "company_name": "",
+            //    "UserID": "satishpatel1992",
+            //    "password": "asdf",
+            //    "created_by": "182.70.119.213",
+            //    "created_host": "182.70.119.213",
+            //    "device_id": "182.70.119.213",
+            //    "device_type": "B",
+            //    "load_inquiry_no": ""
+            //}]
+
+            //"shipper_order": [{
+            //    "status": "45",
+            //    "fromdate": "",
+            //    "todate": "",
+            //    "inquiry_source_city": "ahmedabad",
+            //    "inquiry_destination_city": "ahmedabad",
+            //    "owner_id": "O1617000022"
+            //}]
+
+                     
+            //    "quote" :
+            //[{   "driver_id" :"",
+            //    "load_inquiry_no" :"", 
+            //    "device_id" :"", 
+            //    "device_type" :"", 
+            //    "modified_host" :"", 
+            //    "modified_by" :"", 
+            //    "modified_device_id" :"",
+            //                    "modified_device_type" :"",
+            //                "Isaccepted" : "Y"
+            //            }]
+            //        });
+
+            //"load_inquiry_no": "P1617000026",
+            //"driver_id": "D1617000001",
+            //"truck_lat": "23.5447925",
+            //"truck_lng": "72.6137019",
+            //"truck_id": "T1516000091",
+            //"truck_location": "A-305, Sarkhej - Gandhinagar Hwy",
+            //"remaining_kms": "121.0",
+            //"eta": "1 day",
+            //"created_by": "9979870937",
+            //"created_host": "89ba07d8c6d842e3",
+            //"device_id": "89ba07d8c6d842e3",
+            //"device_type": "Android-Mobile"
+
+            //"orders": [{
+            //    "load_inquiry_no": "P1617000041",
+            //    "shipper_id": "S1617000062",
+            //    "truck_id": "T1516000093",
+            //    "owner_id": "S1617000062",
+            //    "current_lat": 23.0148551,
+            //    "current_lng": 72.5037145,
+            //    "otp": "",
+            //    "receiver_mobile": "",
+            //    "status": "05",
+            //    "driver_id": "D1516000007",
+            //    "distance_kms_to_origin": "0.0",
+            //    "approx_time_to_reach": "",
+            //    "created_by": "9979870937",
+            //    "created_host": "48988080c058a365",
+            //    "device_id": "48988080c058a365",
+            //    "device_type": "Android-Mobile"
+            //}]
+            // "AddTruckOrDriver":[{"load_inquiry_no":"P1617000353","created_date":"","driver_id":"D1516000007","NoOfLabour":"1","NoOfHandiman":"1","truck_id":"","created_by":"admin","created_host":"182.70.119.213","device_id":"182.70.119.213","device_type":"Browser","AssignOrderToDR":"N","isfinal":"Y"},{"load_inquiry_no":"P1617000353","created_date":"","driver_id":"D1516000008","NoOfLabour":"1","NoOfHandiman":0,"truck_id":"","created_by":"admin","created_host":"182.70.119.213","device_id":"182.70.119.213","device_type":"Browser","AssignOrderToDR":"N","isfinal":"Y"},{"load_inquiry_no":"P1617000353","created_date":"","driver_id":"D1617000002","NoOfLabour":"1","NoOfHandiman":0,"truck_id":"","created_by":"admin","created_host":"182.70.119.213","device_id":"182.70.119.213","device_type":"Browser","AssignOrderToDR":"N","isfinal":"Y"}]
+            //"AddTruckOrDriver": [{
+            //    "load_inquiry_no": "P1617000076",
+            //    "created_date": "",
+            //    "driver_id": "D1516000007",
+            //    "NoOfLabour": "1",
+            //    "NoOfHandiman": "1",
+            //    "truck_id": "",
+            //    "created_by": "admin",
+            //    "created_host": "182.70.119.213",
+            //    "device_id": "182.70.119.213",
+            //    "device_type": "Browser",
+            //    "AssignOrderToDR": "N",
+            //    "isfinal": "N"
+            //}]
+            //, {
+            //    "load_inquiry_no": "P1617000353",
+            //    "created_date": "",
+            //    "driver_id": "D1516000004",
+            //    "NoOfLabour": 0,
+            //    "NoOfHandiman": "1",
+            //    "truck_id": "",
+            //    "created_by": "admin",
+            //    "created_host": "122.170.185.29",
+            //    "device_id": "122.170.185.29",
+            //    "device_type": "Browser",
+            //    "AssignOrderToDR": "N",
+            //    "isfinal": "N"
+            //}, {
+            //    "load_inquiry_no": "P1617000076",
+            //    "created_date": "",
+            //    "driver_id": "D1617000002",
+            //    "NoOfLabour": "1",
+            //    "NoOfHandiman": 0,
+            //    "truck_id": "",
+            //    "created_by": "admin",
+            //    "created_host": "122.170.185.29",
+            //    "device_id": "122.170.185.29",
+            //    "device_type": "Browser",
+            //    "AssignOrderToDR": "N",
+            //    "isfinal": "N"
+            //}]
+
+
+            //"PostOrderParameter": [{
+            //    "IncludePackingCharge": "Y",
+            //    "Isfinalorder": "Y",
+            //    "NoOfDriver": "3",
+            //    "NoOfHandiman": "1",
+            //    "NoOfHelper": "1",
+            //    "NoOfLabour": "2",
+            //    "NoOfTruck": "3",
+            //    "SizeTypeCode": "SZ0003",
+            //    "TimeToTravelInMinute": "00:08",
+            //    "TotalDistance": "6.3",
+            //    "TotalDistanceUOM": "KM",
+            //    "created_by": "shipper",
+            //    "created_host": "E9DE73D5-BD0C-4094-8AF2-8336724C24DD",
+            //    "destination_pincode": "",
+            //    "device_id": "CC3C3197-2013-4332-B6D5-DA0350211A2A",
+            //    "device_type": "IPhone-Mobile",
+            //    "email_id": "",
+            //    "inquiry_destination_addr": "Sarkhej, Ahmedabad, Gujarat, India",
+            //    "inquiry_destination_city": "Sarkhej",
+            //    "inquiry_destination_state": "",
+            //    "inquiry_destionation_lat": "22.9797708",
+            //    "inquiry_destionation_lng": "72.4927108",
+            //    "inquiry_source_addr": "Shapath IV, Prahlad Nagar, Ahmedabad, Gujarat, India",
+            //    "inquiry_source_city": "Shapath IV",
+            //    "inquiry_source_lat": "23.0157764",
+            //    "inquiry_source_lng": "72.50449139999999",
+            //    "inquiry_source_state": "",
+            //    "load_inquiry_no": "",
+            //    "load_inquiry_shipping_date": "04/07/2016",
+            //    "load_inquiry_shipping_time": "18:20",
+            //    "load_inquiry_truck_type": "",
+            //    "payment_mode": "",
+            //    "remarks": "",
+            //    "required_price": "0",
+            //    "shipper_id": "S1617000066",
+            //    "source_pincode": "",
+            //}]
+            //"PostOrderParameter": [{
+            //    "IncludePackingCharge" : "Y",
+            //    "Isfinalorder" : "N",
+            //    "NoOfDriver" : "",
+            //    "NoOfHandiman" : "",
+            //    "NoOfHelper" : "",
+            //    "NoOfLabour" : "",
+            //    "NoOfTruck" : "",
+            //    "SizeTypeCode" : "SZ0001",
+            //    "TimeToTravelInMinute" : "00:46",
+            //    "TotalDistance" : "59.9",
+            //    "TotalDistanceUOM" : "KM",
+            //    "created_by" : "shipper",
+            //    "created_host" : "DFA7D6E0-BD8E-4B88-AC07-A0629DC8F49C",
+            //    "destination_pincode" : "",
+            //    "device_id" : "70EC07E7-A5A8-4927-8E09-74DD9C84F3FC",
+            //    "device_type" : "IPhone-Mobile",
+            //    "email_id" : "",
+            //    "inquiry_destination_addr" : "JA Jebel Ali Beach Hotel - Mina Jebel Ali - Dubai - United Arab Emirates",
+            //    "inquiry_destination_city" : "Mina Jebel Ali",
+            //    "inquiry_destionation_lat" : "24.9857145",
+            //    "inquiry_destionation_lng" : "55.0272904",
+            //    "inquiry_source_addr" : "Dubai International Airport - Dubai - United Arab Emirates",
+            //    "inquiry_source_city" : "Dubai",
+            //    "inquiry_source_lat" : "25.2531745",
+            //    "inquiry_source_lng" : "55.36567280000001",
+            //    "load_inquiry_no" : "",
+            //    "load_inquiry_shipping_date" : "05/07/2016",
+            //    "load_inquiry_shipping_time" : "6:00 pm",
+            //    "load_inquiry_truck_type" : "",
+            //    "payment_mode" : "",
+            //    "remarks" : "",
+            //    "required_price" : "0",
+            //    "shipper_id" : "",
+            //    "source_pincode" : "",
+
+            //}]
+        });
+
+        //"AddTruckOrDriver": [{
+        //    "load_inquiry_no": "P1617000339",
+        //    "driver_id": "D1516000007",
+        //    "truck_id": "",
+        //    "created_by": "admin",
+        //    "created_date": "",
+        //    "created_host": "89ba07d8c6d842e3",
+        //    "device_id": "89ba07d8c6d842e3",
+        //    "device_type": "Android-Mobile",
+        //    "AssignOrderToDR": "N",
+        //    "isfinal": "N"
+        //}]
+        //{
+        //    "load_inquiry_no": "P1617000338",
+        //    "driver_id": "D1516000002",
+        //    "truck_id": "",
+        //    "created_by": "admin",
+        //    "created_date": "",
+        //    "created_host": "89ba07d8c6d842e3",
+        //    "device_id": "89ba07d8c6d842e3",
+        //    "device_type": "Android-Mobile"
+        //},
+        //{
+        //    "load_inquiry_no": "P1617000338",
+        //    "driver_id": "D1516000007",
+        //    "truck_id": "",
+        //    "created_by": "admin",
+        //    "created_date": "",
+        //    "created_host": "89ba07d8c6d842e3",
+        //    "device_id": "89ba07d8c6d842e3",
+        //    "device_type": "Android-Mobile"
+        //}]
+
+        //    "orders": [{
+        //        "load_inquiry_no": "P1617000311",
+        //        "shipper_id": "S1617000052",
+        //        "truck_id": "T1516000124",
+        //        "owner_id": "",
+        //        "current_lat": 23.0150393,
+        //        "current_lng": 72.5037358,
+        //        "otp": "",
+        //        "receiver_mobile": "",
+        //        "status": "05",
+        //        "driver_id": "D1516000001",
+        //        "distance_kms_to_origin": "0.0",
+        //        "approx_time_to_reach": "P1617000311",
+        //        "created_by": "7778805885",
+        //        "created_host": "89ba07d8c6d842e3",
+        //        "device_id": "89ba07d8c6d842e3",
+        //        "device_type": "Android-Mobile"
+        //}]
+
+
+        //"Truck": [{
+        //    "truck_id": "",
+        //    "body_type": "0007",
+        //    "load_capacity": "5",
+        //    "reg_date": "27/06/2016",
+        //    "truck_make_id": "0003",
+        //    "truck_make_id_other": "",
+        //    "truck_model": "004",
+        //    "year_of_mfg": " 2010",
+        //    "axle_detail": "003",
+        //    "axle_detail_other": "",
+        //    "body_type_other": "",
+        //    "current_millage": "64",
+        //    "avg_millage_per_month": "546",
+        //    "fuel_average": "546",
+        //    "finance_company": "",
+        //    "vehicle_reg_no": "5436",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"RTO": [{
+        //    "vehicle_reg_no": "5436",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"Permit": [{
+        //    "permit_no": "546",
+        //    "permit_type": "National",
+        //    "valid_from": "27/06/2016",
+        //    "valid_upto": "27/06/2016",
+        //    "permit_photo": "",
+        //    "owner_id": "A1617000001",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"Insurance": [{
+        //    "insurance_policy_no": "",
+        //    "insurance_details": "",
+        //    "policy_photo_path": "",
+        //    "policy_expiry_date": "",
+        //    "created_host": "",
+        //    "created_by": "",
+        //    "device_id": "",
+        //    "device_type": ""
+        //}]
+
+        //"driver_deshboard": [{
+        //   "status": "busy",
+        //   "fromdate": "",
+        //  "todate": "",
+        //}]
+
+        //"Truck": [{
+        //    "truck_id": "",
+        //    "body_type": "0008",
+        //    "load_capacity": "8",
+        //    "reg_date": "28/06/2016",
+        //    "truck_make_id": "0005",
+        //    "truck_make_id_other": "",
+        //    "truck_model": "004",
+        //    "year_of_mfg": " 2010",
+        //    "axle_detail": "004",
+        //    "axle_detail_other": "",
+        //    "body_type_other": "",
+        //    "current_millage": "5675",
+        //    "avg_millage_per_month": "567",
+        //    "fuel_average": "657",
+        //    "finance_company": "",
+        //    "vehicle_reg_no": "567",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"RTO": [{
+        //    "vehicle_reg_no": "567",
+        //    "reg_place": "Abu Dhabi",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"Permit": [{
+        //    "permit_no": "5646",
+        //    "permit_type": "Local",
+        //    "valid_from": "28/06/2016",
+        //    "valid_upto": "28/06/2016",
+        //    "permit_photo": "",
+        //    "owner_id": "A1617000001",
+        //    "created_host": "122.170.95.163",
+        //    "created_by": "admin",
+        //    "device_id": "122.170.95.163",
+        //    "device_type": "Browser"
+        //}],
+        //"Insurance": [{
+        //    "insurance_policy_no": "",
+        //    "insurance_details": "",
+        //    "policy_photo_path": "",
+        //    "policy_expiry_date": "",
+        //    "created_host": "",
+        //    "created_by": "",
+        //    "device_id": "",
+        //    "device_type": ""
+        //}]
+
+        // "truck_deshboard": [{ "status": "Y", "fromdate": "05-04-2016", "todate": "25-05-2016" }]
+
+        //"UpdateDriver": [{
+        //    "driver_id": "D1617000002",
+        //    "IsOnDuty": "Y",
+        //    "isfree": "Y",
+        //    "modified_by": "sandip",
+        //    "modified_host": "9979870937",
+        //    "modified_device_id": "89ba07d8c6d842e3",
+        //    "modified_device_type": "Android-Mobile"
+        //}]
+
+
+        //"Shipper_master": [{
+        //    "reg_type": "INDIVIDUAL",
+        //    "first_name": "malay",
+        //    "last_name": "shah",
+        //    "address": "dfdsfdsf",
+        //    "email": "jenish@aarin.in",
+        //    "company_name": "",
+        //    "company_type": "Company Type",
+        //    "company_type_other": "",
+        //    "website": "",
+        //    "pan_no": "56757",
+        //    "tin_no": "",
+        //    "profile_pic": "download1820160316140048.jpg",
+        //    "alt_contact_name": "",
+        //    "alt_mobile": "",
+        //    "mobile_no": "9925082357",
+        //    "city": "C013",
+        //    "city_other": "",
+        //    "landline_no": "1234567896",
+        //    "created_by": "182.70.119.213",
+        //    "created_host": "182.70.119.213",
+        //    "device_id": "182.70.119.213",
+        //    "device_type": "Browser",
+        //    "domainname": "http://182.70.119.213:86/trukker/"
+
+        //}]
+        //    "partners_details": [{
+        //        "company_name": "Local",
+        //        "city_name": "Dubai",
+        //        "service_offered": "Moving",
+        //        "name":"",
+        //        "mobileno":"",
+        //        "email":"",   
+        //        "address":"" 
+        //        "website":"abc.com",
+        //        "created_host": "admin",
+        //    "created_by": "admin",
+        //    "device_id": "admin",
+        //    "device_type": "Browser"
+        //}]
+
+        //   });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000008", "DeviceId": "34602708eeb5ab0af357958fbc0b8f4da93bd790", "TokenId": "629547aa4e0c7f2b10bec233fa46927d01654a7bbf0ea599440eb59957292216", "DeviceInfo": "iPhone4,1-7.1.1", "OS": "iOS 8.0", "IMEINo": "911345009504264" });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000007", "DeviceId": "APA91bG1PAFdyPf9q73vk3IzdgDAYzb_YWS2OVS5vgOhoqWgxeAgQu71LyWPkC2-0uT_mc3RxRhO8odgTSVDb3PVtGSxDt_ALy081Es6wPdu1ahcY746mAxiGusFT155TiRGLW5M2d4M9W_F6DclR-j3-W_T9HkScA", "TokenId": "AIzaSyCV4iS6DIUplRHyHH920NPLiGNSTwDPhgg", "DeviceInfo": "Android 5.0", "OS": "Android", "IMEINo": "911345009504264" });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "DeviceId": "34602708eeb5ab0af357958fbc0b8f4da93bd790" });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "DeviceId": "APA91bG1PAFdyPf9q73vk3IzdgDAYzb_YWS2OVS5vgOhoqWgxeAgQu71LyWPkC2-0uT_mc3RxRhO8odgTSVDb3PVtGSxDt_ALy081Es6wPdu1ahcY746mAxiGusFT155TiRGLW5M2d4M9W_F6DclR-j3-W_T9HkScA" });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000008", "DeviceId": "34602708eeb5ab0af357958fbc0b8f4da93bd790", "UnreadCount" : 2 });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000007", "DeviceId": "APA91bG1PAFdyPf9q73vk3IzdgDAYzb_YWS2OVS5vgOhoqWgxeAgQu71LyWPkC2-0uT_mc3RxRhO8odgTSVDb3PVtGSxDt_ALy081Es6wPdu1ahcY746mAxiGusFT155TiRGLW5M2d4M9W_F6DclR-j3-W_T9HkScA", "UnreadCount" : 3 });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000008", "LastMessageDateTime": null });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "UniqueId": "D1516000007", "LastMessageDateTime": null });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "MessageId": 2 });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "MessageId": 3 });
+
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "MessageId": 1 });
+        //var data2 = JSON.stringify({ "AppName": "TrukkerUAE", "MessageId": 4 });
+
+        debugger;
+        $.ajax({
+            type: "POST",
+            //url: "http://phi-zsph.com/DeGrToolNew/UIL/DeGrToolWebService.asmx/GetAccountList",
+            //url: "http://localhost:1172/api/postorder/CalculateRate",
+            //  url: "http://localhost:2008/api/owner/GetAllInquiryForTransporter/?ownerid=O1516000124&statid=-01",
+            //url: "http://localhost:2008/api/shipper/ActivateRegistration?regid=S1617000072&regtype=S",
+            //url: "http://localhost:1172/api/shipper/RegisterShipper",
+            // url: "http://localhost:1172/api/truck/SaveTruck",
+            // url: "http://localhost:1172/api/driver/AssignTruckOrDriverNew",
+            url: "http://localhost:1172/api/driver/SaveDriverDetails",
+            //url: "https://sbpaymentservices.payfort.com/FortAPI/paymentApi",
+            async: false,
+            data: data1,
+            contentType: "application/json",
+            dataType: 'json',
+            success: function (data) {
+                debugger;
+                console.log(data);
+                alert(data);
+                if (data == "Pass") {
+                    // alert("post order Successfully.");
+                }
+                else {
+                    // alert(data);
+                    // alert("post order is not registered");
+                }
+            },
+            error: function (e) {
+
+                debugger
+                alert(e.Response_Object.Message);
+            }
+        });
+    </script>
+</head>
+<body>
+    <div data-role="page" id="pageHome">
+
+        <div data-role="header">
+            <h1>Welcome To Truckker</h1>
+            <input type="button" id="testTruckBtn" value="Test Truck" />
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <!--<a href="#pageOwner" class="ui-btn" id="ownerReg">Owner Regstration</a>
+            <a href="#pageTruck" class="ui-btn" id="truckReg">Truck Regstration</a>
+            <a href="#pageDriver" class="ui-btn" id="driverReg">Driver Regstration</a>-->
+
+            <a href="#btnchoiceOwner" class="ui-btn" id="ownerReg">Owner Regstration</a>
+            <a href="#btnchoiceTruck" class="ui-btn" id="truckReg">Truck Regstration</a>
+            <a href="#btnchoiceDriver" class="ui-btn" id="driverReg">Driver Regstration</a>
+        </div>
+
+        <div data-role="footer">
+            <h1>www.truckker.com</h1>
+        </div>
+    </div>
+
+    <div id="btnchoiceOwner" data-role="page">
+        <div data-role="main" class="ui-content">
+            <a href="#pageOwner" class="ui-btn" id="A7">Add New Owner</a>
+            <a href="#viewOwner" class="ui-btn" id="viewOwnerList">View Existing Owner List</a>
+        </div>
+    </div>
+
+    <div id="viewOwner" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>View Owners </h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <table border="1" id="tblOwners" style="margin-left: 27%; border-spacing: 0.5rem; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        <th>Owner Id</th>
+                        <th>Owner Name</th>
+                        <th>Owner Type</th>
+                        <th>Number Of Trucks</th>
+                        <th>Registration Date</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyOwners">
+                </tbody>
+            </table>
+            <div id="divEditOwner" visible="false">
+
+                <label>An unique TruKKer ID for Owner</label>
+                <input type="text" name="ownerIdEdit" disabled="disabled" id="ownerIdEdit" />
+
+                <label>Date Of Registration</label>
+                <input type="date" name="ownerRegDateEdit" id="ownerRegDateEdit" />
+
+                <label>Type Of Owner</label>
+                <select name="ownerType" id="ownerTypeEdit" style="font-size: x-small !important">
+                    <option value="individual">Individual </option>
+                    <option value="company">Company </option>
+                    <option value="ownerdriver">Owner Driver</option>
+                </select>
+
+                <label>No Of Trucks Owned</label>
+                <input type="number" name="owenerNoOfTruckOwnedEdit" id="owenerNoOfTruckOwnedEdit" min="1" max="50" />
+
+                <label>Type Of Trucks</label>
+                <input type="text" name="ownerTruckTypeEdit" id="ownerTruckTypeEdit" />
+                <br />
+                <input type="submit" value="Submit" style="background-color: blue" />
+            </div>
+        </div>
+    </div>
+
+    <div id="btnchoiceTruck" data-role="page">
+        <div data-role="main" class="ui-content">
+            <a href="#pageTruck" class="ui-btn" id="A9">Add New Truck</a>
+            <a href="#viewTruck" class="ui-btn" id="divViewTruck">View Existing Truck List</a>
+        </div>
+    </div>
+
+    <div id="btnchoiceDriver" data-role="page">
+        <div data-role="main" class="ui-content">
+            <a href="#pageDriver" class="ui-btn" id="A11">Add New Driver</a>
+            <a href="#viewDriver" class="ui-btn" id="A12">View Existing Driver List</a>
+        </div>
+    </div>
+
+    <div id="pageOwner" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Owner Registration </h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+
+            <label>An unique TruKKer ID for Owner</label>
+            <input type="text" name="ownerId" id="ownerId" />
+
+            <label>Owner Name</label>
+            <input type="text" name="ownerName" id="ownerName" />
+
+            <label>Date Of Registration</label>
+            <input type="date" name="ownerRegDate" id="ownerRegDate" />
+
+            <label>Type Of Owner</label>
+            <select name="ownerType" id="ownerType" style="font-size: x-small !important">
+                <!--<option value="individual">Individual </option>
+                    <option value="company">Company </option>
+                    <option value="ownerdriver">Owner Driver</option>-->
+            </select>
+
+            <label>No Of Trucks Owned</label>
+            <input type="number" name="owenerNoOfTruckOwned" id="owenerNoOfTruckOwned" min="1" max="50" />
+
+            <!--<label>Type Of Trucks</label>
+                <input type="text" name="ownerTruckType" id="ownerTruckType" />-->
+            <br />
+            <input type="submit" value="Submit" style="background-color: blue" id="saveOwnerReg" />
+
+
+        </div>
+    </div>
+
+    <div id="pageTruck" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Truck Registration Details </h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+
+            <label>An unique TruKKer ID for Truck</label>
+            <input type="text" name="ownerId" id="truckId" required="" />
+
+            <label>Date Of Registration</label>
+            <input type="date" name="truckRegDate" id="truckRegDate" />
+
+        </div>
+
+        <div data-role="footer">
+            <a href="#truckReg_truckDetails" id="btnNext_truckReg_Detail" style="margin-left: 0.5%">Next
+            <!--<input type="submit" value="Next" href="#truckReg_truckDetails"/>-->
+            </a>
+        </div>
+    </div>
+
+    <div id="truckReg_truckDetails" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Truck Details</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <label>Make</label>
+            <input type="text" name="truckMake" id="truckMake" />
+
+            <label>Model</label>
+            <input type="text" name="truckModel" id="truckModel" />
+
+            <label>Axel</label>
+            <input type="text" name="truckAxel" id="truckAxel" />
+
+            <label>Load Capacity</label>
+            <input type="text" name="truckLoadCapacity" id="truckLoadCapacity" />
+
+            <label>Type Of Body</label>
+            <input type="text" name="truckBodyType" id="truckBodyType" />
+
+            <label>Year Of Manufacture</label>
+            <input type="number" name="truckMfgYear" id="truckMfgYear" min="1991" max="2015" />
+        </div>
+
+        <div data-role="footer">
+            <a href="#truckReg_truckMilage" class="ui-btn" id="A1" style="margin-left: 0.5%">Next</a>
+        </div>
+    </div>
+
+    <div id="truckReg_truckMilage" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Current Mileage</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <label>Current Mileage</label>
+            <input type="number" name="truckCurrentMilage" id="truckCurrentMilage" />
+
+            <label>Average Mileage done per month</label>
+            <input type="number" name="truckAvgMilagePerMon" id="truckAvgMilagePerMon" />
+
+            <label>Fuel average of the truck</label>
+            <input type="number" name="truckFuelAvg" id="truckFuelAvg" />
+        </div>
+
+        <div data-role="footer">
+            <a href="#truckReg_truckIdentification" class="ui-btn" id="A2" style="margin-left: 0.5%">Next</a>
+        </div>
+    </div>
+
+    <div id="truckReg_truckIdentification" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Truck Identification Details</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <!-- <label>Copy of Truck Registration </label>
+            <input type="file" name="truckCopyReg" id="truckCopyReg" />
+
+            <label>Copy of Transport Permit/Permits </label>
+            <input type="file" name="truckTransportPermit" id="truckTransportPermit" />
+
+            <label>Photograph Of Number Plate </label>
+            <input type="file" name="truckNumPlatePic" id="truckNumPlatePic" />
+
+            <label>Details And Picture Of Truck</label>
+            <input type="file" name="truckNumPlatePic" id="File1" multiple="" />-->
+
+            <a href="" class="ui-btn" data-inline="false" id="saveTruckData">Submit</a>
+        </div>
+
+        <!--<div data-role="footer">
+            <a href="#truckReg_truckIdentification" class="ui-btn" id="A3">Next</a>
+        </div>-->
+    </div>
+
+    <div id="pageDriver" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Personal Details </h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+
+            <br />
+            <label>Name</label>
+            <input type="text" id="txtName" name="txtName" /><br>
+
+            <label>Age</label>
+            <input type="text" id="txtAge" name="txtAge" /><br>
+
+            <label>Date Of Birth</label>
+            <input type="date" id="dateBirth" name="dateBirth" /><br />
+
+            <label>Date Of Registration</label>
+            <input type="date" id="dateReg" name="dateReg" /><br />
+
+            <!--<label>Language Spoken</label>
+                    
+                    <select name="drpLangSpok" id="drpLangSpok" multiple="multiple" data-native-menu="false">
+                        <option>Language</option>
+                        <option value="mon">Hindi</option>
+                        <option value="tue">Bengali</option>
+                        <option value="wed">Telugu</option>
+                        <option value="thu">Marathi</option>
+                        <option value="fri">Tamil</option>
+                        <option value="sat">Urdu</option>
+                        <option value="sun">Gujarati</option>
+                        <option value="mon">Kannada</option>
+                        <option value="tue">Malayalam</option>
+                        <option value="wed">Odia</option>
+                        <option value="thu">Punjabi</option>
+                        <option value="fri">Assamese</option>
+                        <option value="sat">Maithili</option>
+                        <option value="sun">Bhili/Bhilodi</option>
+                        <option value="mon">Santali</option>
+                        <option value="tue">Kashmiri</option>
+                        <option value="wed">Nepali</option>
+                        <option value="thu">Gondi</option>
+                        <option value="fri">Sindhi</option>
+                        <option value="sat">Konkani</option>
+                        <option value="sun">Dogri</option>
+                        <option value="mon">Khandeshi</option>
+                        <option value="tue">Kurukh</option>
+                        <option value="wed">Tulu</option>
+                        <option value="thu">Meitei/Manipuri</option>
+                        <option value="fri">Bodo</option>
+                        <option value="sat">Khasi</option>
+                        <option value="sun">Mundari</option>
+                        <option value="sun">Ho</option>
+                    </select>
+                    <br />-->
+
+            <label for="drpLangSkills">Language Skills</label>
+            <!--<input type="text" id="txtLangSkills" name="txtLangSkills" />-->
+            <select name="drpLangSkills" id="drpLangSkills" multiple="multiple" data-native-menu="false">
+                <option>Choose...</option>
+                <optgroup label="Hindi">
+                    <option value="1">Read</option>
+                    <option value="2">Write</option>
+                    <option value="3">Speak</option>
+                </optgroup>
+                <optgroup label="Bengali">
+                    <option value="5">Read</option>
+                    <option value="6">Write</option>
+                    <option value="7">Speak</option>
+                </optgroup>
+
+
+
+                <optgroup label="Telugu">
+                    <option value="8">Read</option>
+                    <option value="9">Write</option>
+                    <option value="10">Speak</option>
+                </optgroup>
+                <optgroup label="Marathi">
+                    <option value="1">Read</option>
+                    <option value="12">Write</option>
+                    <option value="13">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Tamil">
+                    <option value="14">Read</option>
+                    <option value="15">Write</option>
+                    <option value="16">Speak</option>
+                </optgroup>
+                <optgroup label="Urdu">
+                    <option value="17">Read</option>
+                    <option value="18">Write</option>
+                    <option value="19">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Gujarati">
+                    <option value="20">Read</option>
+                    <option value="21">Write</option>
+                    <option value="22">Speak</option>
+                </optgroup>
+                <optgroup label="Kannada">
+                    <option value="23">Read</option>
+                    <option value="24">Write</option>
+                    <option value="25">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Malayalam">
+                    <option value="26">Read</option>
+                    <option value="27">Write</option>
+                    <option value="28">Speak</option>
+                </optgroup>
+                <optgroup label="Odia">
+                    <option value="29">Read</option>
+                    <option value="30">Write</option>
+                    <option value="31">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Punjabi">
+                    <option value="32">Read</option>
+                    <option value="33">Write</option>
+                    <option value="34">Speak</option>
+                </optgroup>
+                <optgroup label="Assamese">
+                    <option value="35">Read</option>
+                    <option value="36">Write</option>
+                    <option value="37">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Maithili">
+                    <option value="38">Read</option>
+                    <option value="39">Write</option>
+                    <option value="40">Speak</option>
+                </optgroup>
+                <optgroup label="Bhili/Bhilodi">
+                    <option value="41">Read</option>
+                    <option value="42">Write</option>
+                    <option value="43">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Santali">
+                    <option value="44">Read</option>
+                    <option value="45">Write</option>
+                    <option value="46">Speak</option>
+                </optgroup>
+                <optgroup label="Kashmiri">
+                    <option value="47">Read</option>
+                    <option value="48">Write</option>
+                    <option value="49">Speak</option>
+                </optgroup>
+
+
+                <optgroup label="Nepali">
+                    <option value="50">Read</option>
+                    <option value="51">Write</option>
+                    <option value="52">Speak</option>
+                </optgroup>
+                <optgroup label="Gondi">
+                    <option value="53">Read</option>
+                    <option value="54">Write</option>
+                    <option value="55">Speak</option>
+                </optgroup>
+
+                <optgroup label="Sindhi">
+                    <option value="56">Read</option>
+                    <option value="57">Write</option>
+                    <option value="58">Speak</option>
+                </optgroup>
+                <optgroup label="Konkani">
+                    <option value="59">Read</option>
+                    <option value="60">Write</option>
+                    <option value="61">Speak</option>
+                </optgroup>
+
+                <optgroup label="Dogri">
+                    <option value="62">Read</option>
+                    <option value="63">Write</option>
+                    <option value="64">Speak</option>
+                </optgroup>
+                <optgroup label="Khandeshi">
+                    <option value="65">Read</option>
+                    <option value="66">Write</option>
+                    <option value="67">Speak</option>
+                </optgroup>
+
+
+
+
+                <optgroup label="Kurukh">
+                    <option value="62">Read</option>
+                    <option value="63">Write</option>
+                    <option value="64">Speak</option>
+                </optgroup>
+                <optgroup label="Tulu">
+                    <option value="65">Read</option>
+                    <option value="66">Write</option>
+                    <option value="67">Speak</option>
+                </optgroup>
+                <optgroup label="Meitei/Manipuri">
+                    <option value="62">Read</option>
+                    <option value="63">Write</option>
+                    <option value="64">Speak</option>
+                </optgroup>
+                <optgroup label="Bodo">
+                    <option value="65">Read</option>
+                    <option value="66">Write</option>
+                    <option value="67">Speak</option>
+                </optgroup>
+                <optgroup label="Khasi">
+                    <option value="68">Read</option>
+                    <option value="69">Write</option>
+                    <option value="70">Speak</option>
+                </optgroup>
+                <optgroup label="Mundari">
+                    <option value="71">Read</option>
+                    <option value="72">Write</option>
+                    <option value="73">Speak</option>
+                </optgroup>
+                <optgroup label="Ho">
+                    <option value="74">Read</option>
+                    <option value="75">Write</option>
+                    <option value="76">Speak</option>
+                </optgroup>
+
+
+            </select>
+            <br />
+
+            <label for="chkMaritalStatus">Married?</label>
+            <input type="checkbox" id="chkMaritalStatus" name="chkMaritalStatus" value="chkMaritalStatus" />
+            <br />
+
+            <label>NO. Of Child</label>
+            <input type="number" id="drpNoOfChild" name="txtName" />
+            <!--<select id="drpNoOfChild" name="drpNoOfChild">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>-->
+            <br />
+
+        </div>
+
+        <div data-role="footer">
+            <a href="#driverReg_healthDetails" id="A3" style="margin-left: 0.5%">Next</a>
+        </div>
+    </div>
+
+    <div id="driverReg_healthDetails" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Health Details</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+
+            <br />
+            <label for="chkHealthIssue">Health Issue</label>
+            <input type="checkbox" id="chkHealthIssue" name="chkHealthIssue" value="chkHealthIssue" /><br />
+
+            <label for="chkHealthIns">Health Insurance Exist</label>
+            <input type="checkbox" id="chkHealthIns" name="chkHealthIns" value="chkHealthIns" /><br />
+
+            <label for="chkSmoker">Smoker</label>
+            <input type="checkbox" id="chkSmoker" name="chkSmoker" value="chkSmoker" /><br />
+
+            <label for="chkAlcoholic">Alcoholic</label>
+            <input type="checkbox" id="chkAlcoholic" name="chkAlcoholic" value="chkAlcoholic" /><br />
+
+        </div>
+
+        <div data-role="footer">
+            <a href="#driverReg_phoneDetails" id="A4" style="margin-left: 0.5%">Next
+            <!--<input type="submit" value="Next" href="#truckReg_truckDetails"/>-->
+            </a>
+        </div>
+    </div>
+
+    <div id="driverReg_phoneDetails" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Phone Details</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+
+            <br />
+            <label for="chkSmartPhone">Smart Phone Owner</label>
+            <input type="checkbox" id="chkSmartPhone" name="chkSmartPhone" value="chkSmartPhone" /><br />
+
+            <label for="chk3GData">3G Data</label>
+            <input type="checkbox" id="chk3GData" name="chk3GData" value="chk3GData" /><br />
+
+            <label>Smart Phone Modal No</label>
+            <input type="text" id="txtSmartPhoneModelNo" />
+            <br />
+
+
+
+        </div>
+
+        <div data-role="footer">
+            <a href="#driverReg_professionalDetails" id="A5" style="margin-left: 0.5%">Next
+            <!--<input type="submit" value="Next" href="#truckReg_truckDetails"/>-->
+            </a>
+        </div>
+    </div>
+
+
+    <div id="driverReg_professionalDetails" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Professional Details</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <label>Driving Experience</label>
+            <input type="text" id="txtDriveExp" /><br />
+
+
+            <label>Qualification</label>
+            <input type="text" id="txtQualification" /><br />
+
+            <label for="chkLegHis">Any Legal History</label>
+            <input type="checkbox" id="chkLegHis" name="chkLegHis" value="chkLegHis" /><br />
+
+
+            <label for="chkOtherTruck">Does he drive other trucks for other owners?</label>
+            <input type="checkbox" id="chkOtherTruck" name="chkOtherTruck" value="chkOtherTruck" /><br />
+
+            <label>Origin</label>
+            <input type="text" id="txtOrigin" /><br />
+
+
+            <label>Comfort Destination</label>
+            <input type="text" id="txtComfortDes" /><br />
+
+        </div>
+
+        <div data-role="footer">
+            <a href="#driverReg_identificationDetails" id="A6" style="margin-left: 0.5%">Next</a>
+        </div>
+    </div>
+
+    <div id="driverReg_identificationDetails" data-role="page">
+        <div data-role="main" class="ui-content">
+            <div data-role="header">
+                <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+                <h1>Identification Details</h1>
+            </div>
+            <div>
+                <br />
+                <label for="DriverPhoto">Upload Photograph</label>
+                <input type="file" id="DriverPhoto" name="DriverPhoto" /><br />
+
+                <label>Upload Adhar Card Image</label>
+                <input type="file" id="DriverAdhar" /><br />
+
+                <label>Upload Voter Card Image</label>
+                <input type="file" id="DriverVoter" /><br />
+
+                <label>Upload Driving Licence Image</label>
+                <input type="file" id="DriverDrivingLic" /><br />
+
+
+                <br />
+                <input type="submit" value="Submit" style="background-color: blue" id="saveDriverData" />
+
+            </div>
+
+            <!--  <div data-role="footer">
+            <a href="#driverReg_identificationDetails" id="A7" style="margin-left: 0.5%">
+            <input type="submit" value="Next" href="#truckReg_truckDetails"/>
+            </a>        </div>-->
+        </div>
+    </div>
+
+    <div id="viewTruck" data-role="page">
+        <div data-role="header">
+            <a href="#pageHome" class="ui-btn ui-corner-all ui-shadow ui-icon-home ui-btn-icon-left">Home</a>
+            <h1>Truck List </h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <table border="1" id="tblTrucks" style="margin-left: 9%; border-spacing: 0.5rem; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        <th>Trukker Id</th>
+                        <th>Registration Date</th>
+                        <th>Truck Make Id</th>
+                        <th>Truck Model</th>
+                        <th>Mfg Year</th>
+                        <th>Load Capacity</th>
+                        <th>Axle</th>
+                        <th>Truck Body Type</th>
+                        <th>Current Milage</th>
+                        <th>Avg Milage/Month</th>
+                        <th>Fuel Avg</th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyTrucks">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>

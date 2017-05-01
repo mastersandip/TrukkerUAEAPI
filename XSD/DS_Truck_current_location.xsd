@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_Truck_current_location" targetNamespace="http://tempuri.org/DS_Truck_current_location.xsd" xmlns:mstns="http://tempuri.org/DS_Truck_current_location.xsd" xmlns="http://tempuri.org/DS_Truck_current_location.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="DBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.DBConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_Truck_current_location" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_Truck_current_location" msprop:Generator_UserDSName="DS_Truck_current_location">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="truck_current_position_temp" msprop:Generator_TableClassName="truck_current_position_tempDataTable" msprop:Generator_TableVarName="tabletruck_current_position_temp" msprop:Generator_RowChangedName="truck_current_position_tempRowChanged" msprop:Generator_TablePropName="truck_current_position_temp" msprop:Generator_RowDeletingName="truck_current_position_tempRowDeleting" msprop:Generator_RowChangingName="truck_current_position_tempRowChanging" msprop:Generator_RowEvHandlerName="truck_current_position_tempRowChangeEventHandler" msprop:Generator_RowDeletedName="truck_current_position_tempRowDeleted" msprop:Generator_RowClassName="truck_current_position_tempRow" msprop:Generator_UserTableName="truck_current_position_temp" msprop:Generator_RowEvArgName="truck_current_position_tempRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="driver_id" msprop:Generator_ColumnVarNameInTable="columndriver_id" msprop:Generator_ColumnPropNameInRow="driver_id" msprop:Generator_ColumnPropNameInTable="driver_idColumn" msprop:Generator_UserColumnName="driver_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_id" msprop:Generator_ColumnVarNameInTable="columntruck_id" msprop:Generator_ColumnPropNameInRow="truck_id" msprop:Generator_ColumnPropNameInTable="truck_idColumn" msprop:Generator_UserColumnName="truck_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="log_date" msprop:Generator_ColumnVarNameInTable="columnlog_date" msprop:Generator_ColumnPropNameInRow="log_date" msprop:Generator_ColumnPropNameInTable="log_dateColumn" msprop:Generator_UserColumnName="log_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="load_inquiry_no" msprop:Generator_ColumnVarNameInTable="columnload_inquiry_no" msprop:Generator_ColumnPropNameInRow="load_inquiry_no" msprop:Generator_ColumnPropNameInTable="load_inquiry_noColumn" msprop:Generator_UserColumnName="load_inquiry_no" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lat" msprop:Generator_ColumnVarNameInTable="columntruck_lat" msprop:Generator_ColumnPropNameInRow="truck_lat" msprop:Generator_ColumnPropNameInTable="truck_latColumn" msprop:Generator_UserColumnName="truck_lat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lng" msprop:Generator_ColumnVarNameInTable="columntruck_lng" msprop:Generator_ColumnPropNameInRow="truck_lng" msprop:Generator_ColumnPropNameInTable="truck_lngColumn" msprop:Generator_UserColumnName="truck_lng" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_location" msprop:Generator_ColumnVarNameInTable="columntruck_location" msprop:Generator_ColumnPropNameInRow="truck_location" msprop:Generator_ColumnPropNameInTable="truck_locationColumn" msprop:Generator_UserColumnName="truck_location" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="active_flag" msprop:Generator_ColumnVarNameInTable="columnactive_flag" msprop:Generator_ColumnPropNameInRow="active_flag" msprop:Generator_ColumnPropNameInTable="active_flagColumn" msprop:Generator_UserColumnName="active_flag" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_by" msprop:Generator_ColumnVarNameInTable="columncreated_by" msprop:Generator_ColumnPropNameInRow="created_by" msprop:Generator_ColumnPropNameInTable="created_byColumn" msprop:Generator_UserColumnName="created_by">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_date" msprop:Generator_ColumnVarNameInTable="columncreated_date" msprop:Generator_ColumnPropNameInRow="created_date" msprop:Generator_ColumnPropNameInTable="created_dateColumn" msprop:Generator_UserColumnName="created_date" type="xs:dateTime" />
+              <xs:element name="created_host" msprop:Generator_ColumnVarNameInTable="columncreated_host" msprop:Generator_ColumnPropNameInRow="created_host" msprop:Generator_ColumnPropNameInTable="created_hostColumn" msprop:Generator_UserColumnName="created_host">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_id" msprop:Generator_ColumnVarNameInTable="columndevice_id" msprop:Generator_ColumnPropNameInRow="device_id" msprop:Generator_ColumnPropNameInTable="device_idColumn" msprop:Generator_UserColumnName="device_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_type" msprop:Generator_ColumnVarNameInTable="columndevice_type" msprop:Generator_ColumnPropNameInRow="device_type" msprop:Generator_ColumnPropNameInTable="device_typeColumn" msprop:Generator_UserColumnName="device_type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="truck_current_position_history" msprop:Generator_TableClassName="truck_current_position_historyDataTable" msprop:Generator_TableVarName="tabletruck_current_position_history" msprop:Generator_RowChangedName="truck_current_position_historyRowChanged" msprop:Generator_TablePropName="truck_current_position_history" msprop:Generator_RowDeletingName="truck_current_position_historyRowDeleting" msprop:Generator_RowChangingName="truck_current_position_historyRowChanging" msprop:Generator_RowEvHandlerName="truck_current_position_historyRowChangeEventHandler" msprop:Generator_RowDeletedName="truck_current_position_historyRowDeleted" msprop:Generator_RowClassName="truck_current_position_historyRow" msprop:Generator_UserTableName="truck_current_position_history" msprop:Generator_RowEvArgName="truck_current_position_historyRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="driver_id" msprop:Generator_ColumnVarNameInTable="columndriver_id" msprop:Generator_ColumnPropNameInRow="driver_id" msprop:Generator_ColumnPropNameInTable="driver_idColumn" msprop:Generator_UserColumnName="driver_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_id" msprop:Generator_ColumnVarNameInTable="columntruck_id" msprop:Generator_ColumnPropNameInRow="truck_id" msprop:Generator_ColumnPropNameInTable="truck_idColumn" msprop:Generator_UserColumnName="truck_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="log_date" msprop:Generator_ColumnVarNameInTable="columnlog_date" msprop:Generator_ColumnPropNameInRow="log_date" msprop:Generator_ColumnPropNameInTable="log_dateColumn" msprop:Generator_UserColumnName="log_date" type="xs:dateTime" />
+              <xs:element name="load_inquiry_no" msprop:Generator_ColumnVarNameInTable="columnload_inquiry_no" msprop:Generator_ColumnPropNameInRow="load_inquiry_no" msprop:Generator_ColumnPropNameInTable="load_inquiry_noColumn" msprop:Generator_UserColumnName="load_inquiry_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lat" msprop:Generator_ColumnVarNameInTable="columntruck_lat" msprop:Generator_ColumnPropNameInRow="truck_lat" msprop:Generator_ColumnPropNameInTable="truck_latColumn" msprop:Generator_UserColumnName="truck_lat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lng" msprop:Generator_ColumnVarNameInTable="columntruck_lng" msprop:Generator_ColumnPropNameInRow="truck_lng" msprop:Generator_ColumnPropNameInTable="truck_lngColumn" msprop:Generator_UserColumnName="truck_lng" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_location" msprop:Generator_ColumnVarNameInTable="columntruck_location" msprop:Generator_ColumnPropNameInRow="truck_location" msprop:Generator_ColumnPropNameInTable="truck_locationColumn" msprop:Generator_UserColumnName="truck_location" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="active_flag" msprop:Generator_ColumnVarNameInTable="columnactive_flag" msprop:Generator_ColumnPropNameInRow="active_flag" msprop:Generator_ColumnPropNameInTable="active_flagColumn" msprop:Generator_UserColumnName="active_flag" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_by" msprop:Generator_ColumnVarNameInTable="columncreated_by" msprop:Generator_ColumnPropNameInRow="created_by" msprop:Generator_ColumnPropNameInTable="created_byColumn" msprop:Generator_UserColumnName="created_by">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_date" msprop:Generator_ColumnVarNameInTable="columncreated_date" msprop:Generator_ColumnPropNameInRow="created_date" msprop:Generator_ColumnPropNameInTable="created_dateColumn" msprop:Generator_UserColumnName="created_date" type="xs:dateTime" />
+              <xs:element name="created_host" msprop:Generator_ColumnVarNameInTable="columncreated_host" msprop:Generator_ColumnPropNameInRow="created_host" msprop:Generator_ColumnPropNameInTable="created_hostColumn" msprop:Generator_UserColumnName="created_host">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_id" msprop:Generator_ColumnVarNameInTable="columndevice_id" msprop:Generator_ColumnPropNameInRow="device_id" msprop:Generator_ColumnPropNameInTable="device_idColumn" msprop:Generator_UserColumnName="device_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_type" msprop:Generator_ColumnVarNameInTable="columndevice_type" msprop:Generator_ColumnPropNameInRow="device_type" msprop:Generator_ColumnPropNameInTable="device_typeColumn" msprop:Generator_UserColumnName="device_type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="truck_current_position" msprop:Generator_TableClassName="truck_current_positionDataTable" msprop:Generator_TableVarName="tabletruck_current_position" msprop:Generator_TablePropName="truck_current_position" msprop:Generator_RowDeletingName="truck_current_positionRowDeleting" msprop:Generator_RowChangingName="truck_current_positionRowChanging" msprop:Generator_RowEvHandlerName="truck_current_positionRowChangeEventHandler" msprop:Generator_RowDeletedName="truck_current_positionRowDeleted" msprop:Generator_UserTableName="truck_current_position" msprop:Generator_RowChangedName="truck_current_positionRowChanged" msprop:Generator_RowEvArgName="truck_current_positionRowChangeEvent" msprop:Generator_RowClassName="truck_current_positionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="driver_id" msprop:Generator_ColumnVarNameInTable="columndriver_id" msprop:Generator_ColumnPropNameInRow="driver_id" msprop:Generator_ColumnPropNameInTable="driver_idColumn" msprop:Generator_UserColumnName="driver_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_id" msprop:Generator_ColumnVarNameInTable="columntruck_id" msprop:Generator_ColumnPropNameInRow="truck_id" msprop:Generator_ColumnPropNameInTable="truck_idColumn" msprop:Generator_UserColumnName="truck_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="log_date" msprop:Generator_ColumnVarNameInTable="columnlog_date" msprop:Generator_ColumnPropNameInRow="log_date" msprop:Generator_ColumnPropNameInTable="log_dateColumn" msprop:Generator_UserColumnName="log_date" type="xs:dateTime" />
+              <xs:element name="load_inquiry_no" msprop:Generator_ColumnVarNameInTable="columnload_inquiry_no" msprop:Generator_ColumnPropNameInRow="load_inquiry_no" msprop:Generator_ColumnPropNameInTable="load_inquiry_noColumn" msprop:Generator_UserColumnName="load_inquiry_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lat" msprop:Generator_ColumnVarNameInTable="columntruck_lat" msprop:Generator_ColumnPropNameInRow="truck_lat" msprop:Generator_ColumnPropNameInTable="truck_latColumn" msprop:Generator_UserColumnName="truck_lat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_lng" msprop:Generator_ColumnVarNameInTable="columntruck_lng" msprop:Generator_ColumnPropNameInRow="truck_lng" msprop:Generator_ColumnPropNameInTable="truck_lngColumn" msprop:Generator_UserColumnName="truck_lng" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_location" msprop:Generator_ColumnVarNameInTable="columntruck_location" msprop:Generator_ColumnPropNameInRow="truck_location" msprop:Generator_ColumnPropNameInTable="truck_locationColumn" msprop:Generator_UserColumnName="truck_location" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="eta" msprop:Generator_ColumnVarNameInTable="columneta" msprop:Generator_ColumnPropNameInRow="eta" msprop:Generator_ColumnPropNameInTable="etaColumn" msprop:Generator_UserColumnName="eta" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="remaining_kms" msprop:Generator_ColumnVarNameInTable="columnremaining_kms" msprop:Generator_ColumnPropNameInRow="remaining_kms" msprop:Generator_ColumnPropNameInTable="remaining_kmsColumn" msprop:Generator_UserColumnName="remaining_kms" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="current_kms" msprop:Generator_ColumnVarNameInTable="columncurrent_kms" msprop:Generator_ColumnPropNameInRow="current_kms" msprop:Generator_ColumnPropNameInTable="current_kmsColumn" msprop:Generator_UserColumnName="current_kms" type="xs:decimal" minOccurs="0" />
+              <xs:element name="total_kms" msprop:Generator_ColumnVarNameInTable="columntotal_kms" msprop:Generator_ColumnPropNameInRow="total_kms" msprop:Generator_ColumnPropNameInTable="total_kmsColumn" msprop:Generator_UserColumnName="total_kms" type="xs:decimal" minOccurs="0" />
+              <xs:element name="active_flag" msprop:Generator_ColumnVarNameInTable="columnactive_flag" msprop:Generator_ColumnPropNameInRow="active_flag" msprop:Generator_ColumnPropNameInTable="active_flagColumn" msprop:Generator_UserColumnName="active_flag" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_by" msprop:Generator_ColumnVarNameInTable="columncreated_by" msprop:Generator_ColumnPropNameInRow="created_by" msprop:Generator_ColumnPropNameInTable="created_byColumn" msprop:Generator_UserColumnName="created_by">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_date" msprop:Generator_ColumnVarNameInTable="columncreated_date" msprop:Generator_ColumnPropNameInRow="created_date" msprop:Generator_ColumnPropNameInTable="created_dateColumn" msprop:Generator_UserColumnName="created_date" type="xs:dateTime" />
+              <xs:element name="created_host" msprop:Generator_ColumnVarNameInTable="columncreated_host" msprop:Generator_ColumnPropNameInRow="created_host" msprop:Generator_ColumnPropNameInTable="created_hostColumn" msprop:Generator_UserColumnName="created_host">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_id" msprop:Generator_ColumnVarNameInTable="columndevice_id" msprop:Generator_ColumnPropNameInRow="device_id" msprop:Generator_ColumnPropNameInTable="device_idColumn" msprop:Generator_UserColumnName="device_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="device_type" msprop:Generator_ColumnVarNameInTable="columndevice_type" msprop:Generator_ColumnPropNameInRow="device_type" msprop:Generator_ColumnPropNameInTable="device_typeColumn" msprop:Generator_UserColumnName="device_type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:truck_current_position_history" />
+      <xs:field xpath="mstns:driver_id" />
+      <xs:field xpath="mstns:truck_id" />
+      <xs:field xpath="mstns:log_date" />
+      <xs:field xpath="mstns:load_inquiry_no" />
+    </xs:unique>
+    <xs:unique name="truck_current_position_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:truck_current_position" />
+      <xs:field xpath="mstns:driver_id" />
+      <xs:field xpath="mstns:truck_id" />
+      <xs:field xpath="mstns:log_date" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

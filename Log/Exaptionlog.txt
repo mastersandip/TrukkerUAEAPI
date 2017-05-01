@@ -1,0 +1,570 @@
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001 - 1 BHK",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+CalculateRate({
+  "PostOrderParameter": [
+    {
+      "SizeTypeCode": "SZ0001",
+      "TotalDistance": "50",
+      "TotalDistanceUOM": "KM",
+      "TimeToTravelInMinute": "60",
+      "NoOfTruck": "",
+      "NoOfDriver": "",
+      "NoOfLabour": "4",
+      "NoOfHandiman": "",
+      "NoOfHelper": "",
+      "shipper_id": "shipper",
+      "email_id": "Sat@hotmail.com",
+      "load_inquiry_no": "",
+      "required_price": "",
+      "inquiry_source_addr": "AIR Bypass Rd, Tirupati, Andhra Pradesh 517501, India",
+      "inquiry_source_city": "Tirupati",
+      "inquiry_source_lat": "13.6225764",
+      "inquiry_source_lng": "79.41983870000001",
+      "source_pincode": "",
+      "aprox_kms": "525",
+      "load_inquiry_shipping_date": "21/01/2016",
+      "load_inquiry_shipping_time": "15:30",
+      "inquiry_destination_addr": "PTR Bridge, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+      "inquiry_destination_city": "Madurai",
+      "inquiry_source_state": "Andhra Pradesh",
+      "inquiry_destination_state": "Tamil Nadu",
+      "inquiry_destionation_lat": "9.914123199999999",
+      "inquiry_destionation_lng": "78.14904999999999",
+      "destination_pincode": "",
+      "remarks": "",
+      "payment_mode": "",
+      "load_inquiry_truck_type": "0005",
+      "created_host": "122.170.174.204",
+      "created_by": "shipper",
+      "device_id": "122.170.174.204",
+      "device_type": "Browser",
+      "Isfinalorder": "N"
+    }
+  ]
+})
+Column 'rate' does not belong to table TruckRateDetail.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetTruckRate(String truck_type_code, Int32 NoOfTruck, Decimal NoOfDay, DateTime OrderDate, Decimal& RatePerTruck, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 82
+Column 'rate' does not belong to table TruckRateDetail.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetTruckRate(String truck_type_code, Int32 NoOfTruck, Decimal NoOfDay, DateTime OrderDate, Decimal& RatePerTruck, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 82
+Column 'rate' does not belong to table TruckRateDetail.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetTruckRate(String truck_type_code, Int32 NoOfTruck, Decimal NoOfDay, DateTime OrderDate, Decimal& RatePerTruck, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 82
+Invalid column name 'rate'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetSizeTypeDetail(String SizeTypeCode, Decimal TotalDistance, String TotalDistanceUOM, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 45
+Invalid column name 'rate'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetSizeTypeDetail(String SizeTypeCode, Decimal TotalDistance, String TotalDistanceUOM, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 45
+The parameterized query '(@truck_type_code nvarchar(4000),@OrderDate datetime)SELECT * FR' expects the parameter '@truck_type_code', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at trukkerUAE.BLL.Master.TruckerMaster.GetTruckRate(String truck_type_code, Int32 NoOfTruck, Decimal NoOfDay, DateTime OrderDate, Decimal& MinDistance, String& MinDistanceUOM, String& Message) in e:\Sandip\PROJ\trukkerUAE\trukkerUAE\BLL\Master\TruckerMaster.cs:line 81

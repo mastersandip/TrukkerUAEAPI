@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_MessageQueue" targetNamespace="http://tempuri.org/DS_MessageQueue.xsd" xmlns:mstns="http://tempuri.org/DS_MessageQueue.xsd" xmlns="http://tempuri.org/DS_MessageQueue.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="-1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MgmtMessagingConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="MgmtMessagingConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.XSD.Properties.Settings.GlobalReference.Default.MgmtMessagingConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_MessageQueue" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_MessageQueue" msprop:Generator_UserDSName="DS_MessageQueue">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MessageAttachment" msprop:Generator_TableClassName="MessageAttachmentDataTable" msprop:Generator_TableVarName="tableMessageAttachment" msprop:Generator_RowChangedName="MessageAttachmentRowChanged" msprop:Generator_TablePropName="MessageAttachment" msprop:Generator_RowDeletingName="MessageAttachmentRowDeleting" msprop:Generator_RowChangingName="MessageAttachmentRowChanging" msprop:Generator_RowEvHandlerName="MessageAttachmentRowChangeEventHandler" msprop:Generator_RowDeletedName="MessageAttachmentRowDeleted" msprop:Generator_RowClassName="MessageAttachmentRow" msprop:Generator_UserTableName="MessageAttachment" msprop:Generator_RowEvArgName="MessageAttachmentRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MessageId" msprop:Generator_ColumnVarNameInTable="columnMessageId" msprop:Generator_ColumnPropNameInRow="MessageId" msprop:Generator_ColumnPropNameInTable="MessageIdColumn" msprop:Generator_UserColumnName="MessageId" type="xs:int" />
+              <xs:element name="SrNo" msprop:Generator_ColumnVarNameInTable="columnSrNo" msprop:Generator_ColumnPropNameInRow="SrNo" msprop:Generator_ColumnPropNameInTable="SrNoColumn" msprop:Generator_UserColumnName="SrNo" type="xs:int" />
+              <xs:element name="AttachmentType" msprop:Generator_ColumnVarNameInTable="columnAttachmentType" msprop:Generator_ColumnPropNameInRow="AttachmentType" msprop:Generator_ColumnPropNameInTable="AttachmentTypeColumn" msprop:Generator_UserColumnName="AttachmentType">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AttachmentName" msprop:Generator_ColumnVarNameInTable="columnAttachmentName" msprop:Generator_ColumnPropNameInRow="AttachmentName" msprop:Generator_ColumnPropNameInTable="AttachmentNameColumn" msprop:Generator_UserColumnName="AttachmentName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AttachmentPath" msprop:Generator_ColumnVarNameInTable="columnAttachmentPath" msprop:Generator_ColumnPropNameInRow="AttachmentPath" msprop:Generator_ColumnPropNameInTable="AttachmentPathColumn" msprop:Generator_UserColumnName="AttachmentPath">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MessageQueue" msprop:Generator_TableClassName="MessageQueueDataTable" msprop:Generator_TableVarName="tableMessageQueue" msprop:Generator_RowChangedName="MessageQueueRowChanged" msprop:Generator_TablePropName="MessageQueue" msprop:Generator_RowDeletingName="MessageQueueRowDeleting" msprop:Generator_RowChangingName="MessageQueueRowChanging" msprop:Generator_RowEvHandlerName="MessageQueueRowChangeEventHandler" msprop:Generator_RowDeletedName="MessageQueueRowDeleted" msprop:Generator_RowClassName="MessageQueueRow" msprop:Generator_UserTableName="MessageQueue" msprop:Generator_RowEvArgName="MessageQueueRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UniqueId" msprop:Generator_ColumnVarNameInTable="columnUniqueId" msprop:Generator_ColumnPropNameInRow="UniqueId" msprop:Generator_ColumnPropNameInTable="UniqueIdColumn" msprop:Generator_UserColumnName="UniqueId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TerritoryNum" msprop:Generator_ColumnVarNameInTable="columnTerritoryNum" msprop:Generator_ColumnPropNameInRow="TerritoryNum" msprop:Generator_ColumnPropNameInTable="TerritoryNumColumn" msprop:Generator_UserColumnName="TerritoryNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" />
+              <xs:element name="TargetApp" msprop:Generator_ColumnVarNameInTable="columnTargetApp" msprop:Generator_ColumnPropNameInRow="TargetApp" msprop:Generator_ColumnPropNameInTable="TargetAppColumn" msprop:Generator_UserColumnName="TargetApp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Sender" msprop:Generator_ColumnVarNameInTable="columnSender" msprop:Generator_ColumnPropNameInRow="Sender" msprop:Generator_ColumnPropNameInTable="SenderColumn" msprop:Generator_UserColumnName="Sender">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Subject" msprop:Generator_ColumnVarNameInTable="columnSubject" msprop:Generator_ColumnPropNameInRow="Subject" msprop:Generator_ColumnPropNameInTable="SubjectColumn" msprop:Generator_UserColumnName="Subject">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Message" msprop:Generator_ColumnVarNameInTable="columnMessage" msprop:Generator_ColumnPropNameInRow="Message" msprop:Generator_ColumnPropNameInTable="MessageColumn" msprop:Generator_UserColumnName="Message">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MessageType" msprop:Generator_ColumnVarNameInTable="columnMessageType" msprop:Generator_ColumnPropNameInRow="MessageType" msprop:Generator_ColumnPropNameInTable="MessageTypeColumn" msprop:Generator_UserColumnName="MessageType">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Queue" msprop:Generator_ColumnVarNameInTable="columnQueue" msprop:Generator_ColumnPropNameInRow="Queue" msprop:Generator_ColumnPropNameInTable="QueueColumn" msprop:Generator_UserColumnName="Queue">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QueueDate" msprop:Generator_ColumnVarNameInTable="columnQueueDate" msprop:Generator_ColumnPropNameInRow="QueueDate" msprop:Generator_ColumnPropNameInTable="QueueDateColumn" msprop:Generator_UserColumnName="QueueDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DeleteFlag" msprop:Generator_ColumnVarNameInTable="columnDeleteFlag" msprop:Generator_ColumnPropNameInRow="DeleteFlag" msprop:Generator_ColumnPropNameInTable="DeleteFlagColumn" msprop:Generator_UserColumnName="DeleteFlag" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="order_id" msprop:Generator_ColumnVarNameInTable="columnorder_id" msprop:Generator_ColumnPropNameInRow="order_id" msprop:Generator_ColumnPropNameInTable="order_idColumn" msprop:Generator_UserColumnName="order_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="shipper_id" msprop:Generator_ColumnVarNameInTable="columnshipper_id" msprop:Generator_ColumnPropNameInRow="shipper_id" msprop:Generator_ColumnPropNameInTable="shipper_idColumn" msprop:Generator_UserColumnName="shipper_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="load_inquiry_no" msprop:Generator_ColumnVarNameInTable="columnload_inquiry_no" msprop:Generator_ColumnPropNameInRow="load_inquiry_no" msprop:Generator_ColumnPropNameInTable="load_inquiry_noColumn" msprop:Generator_UserColumnName="load_inquiry_no" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="truck_id" msprop:Generator_ColumnVarNameInTable="columntruck_id" msprop:Generator_ColumnPropNameInRow="truck_id" msprop:Generator_ColumnPropNameInTable="truck_idColumn" msprop:Generator_UserColumnName="truck_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="driver_id" msprop:Generator_ColumnVarNameInTable="columndriver_id" msprop:Generator_ColumnPropNameInRow="driver_id" msprop:Generator_ColumnPropNameInTable="driver_idColumn" msprop:Generator_UserColumnName="driver_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="owner_id" msprop:Generator_ColumnVarNameInTable="columnowner_id" msprop:Generator_ColumnPropNameInRow="owner_id" msprop:Generator_ColumnPropNameInTable="owner_idColumn" msprop:Generator_UserColumnName="owner_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IsAnyAttachment" msprop:Generator_ColumnVarNameInTable="columnIsAnyAttachment" msprop:Generator_ColumnPropNameInRow="IsAnyAttachment" msprop:Generator_ColumnPropNameInTable="IsAnyAttachmentColumn" msprop:Generator_UserColumnName="IsAnyAttachment" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DateTimeToSend" msprop:Generator_ColumnVarNameInTable="columnDateTimeToSend" msprop:Generator_ColumnPropNameInRow="DateTimeToSend" msprop:Generator_ColumnPropNameInTable="DateTimeToSendColumn" msprop:Generator_UserColumnName="DateTimeToSend" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MessageAttachment" />
+      <xs:field xpath="mstns:MessageId" />
+      <xs:field xpath="mstns:SrNo" />
+    </xs:unique>
+    <xs:unique name="MessageQueue_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MessageQueue" />
+      <xs:field xpath="mstns:UniqueId" />
+      <xs:field xpath="mstns:TerritoryNum" />
+      <xs:field xpath="mstns:Date" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
